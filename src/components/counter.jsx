@@ -2,7 +2,7 @@ import React, { Component } from "react";
 
 class Counter extends Component {
   state = {
-    count: 2,
+    count: 0,
     // imageUrl: "http://picsum.photos/200",
     tags: [],
   };
@@ -23,7 +23,7 @@ class Counter extends Component {
         >
           Increment
         </button>
-        {this.renderTags()}
+        {/* {this.renderTags()} */}
       </div>
     );
   }
