@@ -4,11 +4,15 @@ import { getMovies } from "../services/fakeMovieService";
 class Movies extends Component {
   state = { movies: getMovies() };
   render() {
+    const { length: count } = this.state.movies;
+
+    if (count === 0) return <p>There are no movies in the database.</p>;
+
     return (
-      <div>
-        {this.renderTotalMovies()}
+      <React.Fragment>
+        <p>There are {count} movies in the database.</p>
         {this.renderMovieTable()}
-      </div>
+      </React.Fragment>
     );
   }
   renderTotalMovies() {
@@ -27,15 +31,24 @@ class Movies extends Component {
             <th scope="col">Genre</th>
             <th scope="col">Stock</th>
             <th scope="col">Rate</th>
+            <th scope="col"></th>
           </tr>
         </thead>
         <tbody>
           {movies.map((movie) => (
             <tr key={movie._id}>
               <td>{movie.title}</td>
-              <td>SomeGenre</td>
+              <td>{movie.genre.name}</td>
               <td>{movie.numberInStock}</td>
               <td>{movie.dailyRentalRate}</td>
+              <td>
+                <button
+                  onClick={() => this.handleDelete(movie)}
+                  className="btn btn-danger"
+                >
+                  Delete
+                </button>
+              </td>
             </tr>
           ))}
         </tbody>
@@ -44,7 +57,8 @@ class Movies extends Component {
   }
 
   handleDelete = (movie) => {
-    return null;
+    const movies = this.state.movies.filter((m) => m._id !== movie._id);
+    this.setState({ movies });
   };
 }
 
