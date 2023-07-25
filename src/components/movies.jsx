@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { getMovies } from "../services/fakeMovieService";
-
+import ListGroup from "./listGroup";
 class Movies extends Component {
   state = { movies: getMovies() };
   render() {
@@ -9,10 +9,14 @@ class Movies extends Component {
     if (count === 0) return <p>There are no movies in the database.</p>;
 
     return (
-      <React.Fragment>
-        <p>There are {count} movies in the database.</p>
-        {this.renderMovieTable()}
-      </React.Fragment>
+      <div className="row">
+        <div className="col-1"></div>
+        <ListGroup/>
+        <div className="col">
+          <p>There are {count} movies in the database.</p>
+          {this.renderMovieTable()}
+        </div>
+      </div>
     );
   }
   renderTotalMovies() {
