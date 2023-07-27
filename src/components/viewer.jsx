@@ -1,8 +1,4 @@
 import React, { Component, Suspense } from "react";
-import { VitessceConfig } from "vitessce";
-import { DataType as dt } from "vitessce";
-import { FileType as ft } from "vitessce";
-import { ViewType as vt } from "vitessce";
 import { myViewConfig } from "./configs";
 const Vitessce = React.lazy(() => import("./VitessceWrapper"));
 
