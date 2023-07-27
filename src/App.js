@@ -13,7 +13,7 @@ class App extends Component {
   state = {
     samples: [],
     config: {},
-    selectedSample: "166_4_I2_KL.ome.tif",
+    selectedSample: "166_1_I1_LK_pyramid.ome.tiff",
   };
   componentDidMount() {
     // these shall be replaced with proper calls to some backend
@@ -36,7 +36,7 @@ class App extends Component {
         "166_1_C4_CLL_pyramid.ome.tiff",
       ],
       config: vc.toJSON(),
-      selectedSample: "166_4_I2_KL.ome.tif",
+      selectedSample: "166_1_I1_LK_pyramid.ome.tiff",
     });
   }
   handleSampleSelect = (sample) => {
@@ -73,14 +73,14 @@ class App extends Component {
               </div>
             </nav>
             <div className="col">
-              {/* <Viewer sample={this.state.selectedSample} theme="light" /> */}
+              <Viewer sample={this.state.selectedSample} theme="light" />
 
-              <Vitessce
+              {/* <Vitessce
                 // onConfigChange={this.handleConfigChange}
                 config={this.state.config}
                 theme="light"
                 debug={true}
-              />
+              /> */}
             </div>
           </div>
         </main>
