@@ -8,6 +8,7 @@ const ListGroup = (props) => {
         <li className="nav-item" key={item}>
           <a
             onClick={() => onItemSelect(item)}
+            href={item}
             className={item === selectedItem ? "nav-link active" : "nav-link"}
           >
             {item}

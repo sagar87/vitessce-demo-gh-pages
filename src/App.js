@@ -8,6 +8,9 @@ import NavBar from "./components/navbar";
 import { myViewConfig } from "./my-view-config";
 import Viewer from "./components/viewer";
 import ListGroup from "./components/listGroup";
+import Counters from "./components/counters";
+import { Route } from "react-router-dom";
+import Movies from "./components/movies";
 
 class App extends Component {
   state = {
@@ -73,7 +76,11 @@ class App extends Component {
               </div>
             </nav>
             <div className="col">
-              <Viewer sample={this.state.selectedSample} theme="light" />
+              <Route path="/:sample" component={Viewer} />
+              <Route path="/counter" component={Counters} />
+              <Route path="/movies" component={Movies} />
+
+              {/* <Viewer sample={this.state.selectedSample} theme="light" /> */}
 
               {/* <Vitessce
                 // onConfigChange={this.handleConfigChange}
