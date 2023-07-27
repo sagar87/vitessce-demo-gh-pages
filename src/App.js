@@ -4,9 +4,6 @@ import { VitessceConfig } from "vitessce";
 import { DataType as dt } from "vitessce";
 import { FileType as ft } from "vitessce";
 import { ViewType as vt } from "vitessce";
-
-import Movies from "./components/movies";
-import Counters from "./components/counters";
 import NavBar from "./components/navbar";
 import { myViewConfig } from "./my-view-config";
 import Viewer from "./components/viewer";
@@ -16,8 +13,10 @@ class App extends Component {
   state = {
     samples: [],
     config: {},
+    selectedSample: "166_4_I2_KL.ome.tif",
   };
   componentDidMount() {
+    // these shall be replaced with proper calls to some backend
     const vc = new VitessceConfig({
       schemaVersion: "1.0.15",
       name: "My config",
@@ -37,14 +36,10 @@ class App extends Component {
         "166_1_C4_CLL_pyramid.ome.tiff",
       ],
       config: vc.toJSON(),
+      selectedSample: "166_4_I2_KL.ome.tif",
     });
   }
   handleSampleSelect = (sample) => {
-    // const config = { ...this.state.config };
-    // config.datasets[0].files[0].url = "http://localhost:9000/" + sample;
-    // console.log("handle Sample select", sample);
-    // console.log(config);
-
     const vc = new VitessceConfig({
       schemaVersion: "1.0.15",
       name: "My config",
@@ -56,9 +51,10 @@ class App extends Component {
     const v1 = vc.addView(dataset, vt.SPATIAL, { w: 12 });
 
     this.setState({ selectedSample: sample, config: vc.toJSON() });
+    console.log(this.state);
   };
   handleConfigChange = (data) => {
-    // console.log("this config change", data);
+    console.log("this config change", data);
   };
 
   render() {
@@ -66,8 +62,6 @@ class App extends Component {
       <React.Fragment>
         <NavBar />
         <main role="main" className="container-fluid">
-          {/* <Counters /> */}
-          {/* <Movies /> */}
           <div className="row">
             <nav className="col-md-0 d-none d-md-block bg-light sidebar">
               <div className="sidebar-sticky">
@@ -79,14 +73,14 @@ class App extends Component {
               </div>
             </nav>
             <div className="col">
-              {/* <Viewer config={this.state.config} theme="light" /> */}
+              {/* <Viewer sample={this.state.selectedSample} theme="light" /> */}
 
-              {/* <Vitessce
-                onConfigChange={this.handleConfigChange}
+              <Vitessce
+                // onConfigChange={this.handleConfigChange}
                 config={this.state.config}
                 theme="light"
                 debug={true}
-              /> */}
+              />
             </div>
           </div>
         </main>
