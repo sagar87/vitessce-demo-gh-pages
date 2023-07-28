@@ -14,7 +14,9 @@ class Viewer extends Component {
       name: "My config",
     });
     const dataset = vc.addDataset(this.props.match.params.sample).addFile({
-      url: "http://localhost:9000/" + this.props.match.params.sample,
+      url:
+        "https://www.huber.embl.de/users/harald/bnhl-images/" +
+        this.props.match.params.sample,
       fileType: ft.IMAGE_OME_TIFF,
     });
     const v1 = vc.addView(dataset, vt.SPATIAL, { x: 0, y: 0, w: 9, h: 12 });

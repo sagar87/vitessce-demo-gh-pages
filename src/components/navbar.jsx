@@ -6,6 +6,9 @@ const NavBar = (props) => {
       <a className="navbar-brand" href="#">
         BNHL-dataset
       </a>
+      <button onClick={props.onToggle} className="btn btn-primary">
+        Toggle table
+      </button>
     </nav>
   );
 };

@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import { Link } from "react-router-dom";
 import Like from "./common/like";
 import Table from "./common/table";
 
@@ -17,8 +18,14 @@ class SampleTable extends Component {
     },
     { path: "stage", label: "Stage" },
     { key: "like", content: () => <Like /> },
-    { path: "file", label: "File" },
+    {
+      path: "file",
+      label: "File",
+      content: (sample) => <a href={`/${sample.file}`}>{sample.prefix}</a>, //<Link to={`/${sample.file}`}>{sample.prefix}</Link>,
+    },
   ];
+
+  //<a href={sample.file}>{sample.file}</a>
   render() {
     const { samples, sortColumn, onSort } = this.props;
     return (
