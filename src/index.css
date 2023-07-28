@@ -16,12 +16,28 @@ body {
   padding: 20px 0, 0, 0;
 }
 
+.table-container {
+  margin: 0;
+  padding: 20px 20px 20px 20px;
+  font-size: sans-serif;
+}
+
+.list-group-container {
+  margin: 0;
+  padding: 20px 20px 20px 20px;
+  font-size: sans-serif;
+}
+
 .vitessce-container {
-  height: max(100%, 100vh);
+  height: 1200px;
   width: 100%;
 }
 
 .container-fluid {
   height: max(100%, 100vh);
   width: 100%;
+}
+
+.clickable {
+  cursor: pointer;
 }
