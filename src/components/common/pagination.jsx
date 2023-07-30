@@ -17,7 +17,11 @@ const Pagination = (props) => {
             className={page === currentPage ? "page-item active" : "page-item"}
             key={page}
           >
-            <a className="page-link" onClick={() => onPageChage(page)}>
+            <a
+              className="page-link"
+              onClick={() => onPageChage(page)}
+              href="/#"
+            >
               {page}
             </a>
           </li>
