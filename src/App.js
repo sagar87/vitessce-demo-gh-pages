@@ -32,7 +32,7 @@ class App extends Component {
 
   handleEntitySelect = (entity) => {
     console.log(entity);
-    this.setState({ selectedEntity: entity, currentPage: 1 });
+    this.setState({ selectedEntity: entity, currentPage: 1, showTable: true });
   };
 
   handlePageChange = (page) => {

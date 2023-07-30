@@ -9,14 +9,14 @@ const Vitessce = React.lazy(() => import("./VitessceWrapper"));
 
 class Viewer extends Component {
   createConfig = () => {
+    const url = `https://s3.embl.de/voehring/bnhl/${this.props.match.params.sample}`;
+    console.log(url);
     const vc = new VitessceConfig({
       schemaVersion: "1.0.15",
       name: "My config",
     });
     const dataset = vc.addDataset(this.props.match.params.sample).addFile({
-      url:
-        "https://www.huber.embl.de/users/harald/bnhl-images/" +
-        this.props.match.params.sample,
+      url: `http://localhost:9000/${this.props.match.params.sample}`,
       fileType: ft.IMAGE_OME_TIFF,
     });
     const v1 = vc.addView(dataset, vt.SPATIAL, { x: 0, y: 0, w: 9, h: 12 });
