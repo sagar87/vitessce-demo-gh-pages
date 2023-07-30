@@ -14,7 +14,7 @@ const samples = [
     coord_b: "A3",
     prefix: "166_1_A9",
     replica: 1,
-    file: "166_1_A9_E-2000-013662.ome.tiff",
+    file: "166_1_A9_E-2000-013662",
   },
   {
     histo: "E-2003-019643",
@@ -31,7 +31,7 @@ const samples = [
     coord_b: "A4",
     prefix: "166_1_A10",
     replica: 1,
-    file: "166_1_A10_E-2003-019643.ome.tiff",
+    file: "166_1_A10_E-2003-019643",
   },
   {
     histo: "E-2013-025139",
@@ -48,7 +48,7 @@ const samples = [
     coord_b: "A5",
     prefix: "166_1_A11",
     replica: 1,
-    file: "166_1_A11_E-2013-025139.ome.tiff",
+    file: "166_1_A11_E-2013-025139",
   },
   {
     histo: "E-2013-028657",
@@ -65,7 +65,7 @@ const samples = [
     coord_b: "A6",
     prefix: "166_1_A12",
     replica: 1,
-    file: "166_1_A12_E-2013-028657.ome.tiff",
+    file: "166_1_A12_E-2013-028657",
   },
   {
     histo: "E-2013-029210",
@@ -82,7 +82,7 @@ const samples = [
     coord_b: "B1",
     prefix: "166_1_B7",
     replica: 1,
-    file: "166_1_B7_E-2013-029210.ome.tiff",
+    file: "166_1_B7_E-2013-029210",
   },
   {
     histo: "E-2013-029706",
@@ -99,7 +99,7 @@ const samples = [
     coord_b: "B2",
     prefix: "166_1_B8",
     replica: 1,
-    file: "166_1_B8_E-2013-029706.ome.tiff",
+    file: "166_1_B8_E-2013-029706",
   },
   {
     histo: "E-2013-030277",
@@ -116,7 +116,7 @@ const samples = [
     coord_b: "B3",
     prefix: "166_1_B9",
     replica: 1,
-    file: "166_1_B9_E-2013-030277.ome.tiff",
+    file: "166_1_B9_E-2013-030277",
   },
   {
     histo: "E-2013-031977",
@@ -133,7 +133,7 @@ const samples = [
     coord_b: "B4",
     prefix: "166_1_B10",
     replica: 1,
-    file: "166_1_B10_E-2013-031977.ome.tiff",
+    file: "166_1_B10_E-2013-031977",
   },
   {
     histo: "E-2013-034380",
@@ -150,7 +150,7 @@ const samples = [
     coord_b: "B5",
     prefix: "166_1_B11",
     replica: 1,
-    file: "166_1_B11_E-2013-034380.ome.tiff",
+    file: "166_1_B11_E-2013-034380",
   },
   {
     histo: "E-2012-040417",
@@ -167,7 +167,7 @@ const samples = [
     coord_b: "B6",
     prefix: "166_1_B12",
     replica: 1,
-    file: "166_1_B12_E-2012-040417.ome.tiff",
+    file: "166_1_B12_E-2012-040417",
   },
   {
     histo: "E-2013-003142",
@@ -184,7 +184,7 @@ const samples = [
     coord_b: "C1",
     prefix: "166_1_C7",
     replica: 1,
-    file: "166_1_C7_E-2013-003142.ome.tiff",
+    file: "166_1_C7_E-2013-003142",
   },
   {
     histo: "E-2013-009366",
@@ -201,7 +201,7 @@ const samples = [
     coord_b: "C2",
     prefix: "166_1_C8",
     replica: 1,
-    file: "166_1_C8_E-2013-009366.ome.tiff",
+    file: "166_1_C8_E-2013-009366",
   },
   {
     histo: "E-2013-015175",
@@ -218,7 +218,7 @@ const samples = [
     coord_b: "C3",
     prefix: "166_1_C9",
     replica: 1,
-    file: "166_1_C9_E-2013-015175.ome.tiff",
+    file: "166_1_C9_E-2013-015175",
   },
   {
     histo: "E-2013-021054",
@@ -235,7 +235,7 @@ const samples = [
     coord_b: "C4",
     prefix: "166_1_C10",
     replica: 1,
-    file: "166_1_C10_E-2013-021054.ome.tiff",
+    file: "166_1_C10_E-2013-021054",
   },
   {
     histo: "E-2012-045485",
@@ -252,7 +252,7 @@ const samples = [
     coord_b: "D1",
     prefix: "166_1_D7",
     replica: 1,
-    file: "166_1_D7_E-2012-045485.ome.tiff",
+    file: "166_1_D7_E-2012-045485",
   },
   {
     histo: "E-2013-002881",
@@ -269,7 +269,7 @@ const samples = [
     coord_b: "D2",
     prefix: "166_1_D8",
     replica: 1,
-    file: "166_1_D8_E-2013-002881.ome.tiff",
+    file: "166_1_D8_E-2013-002881",
   },
   {
     histo: "E-2014-002947",
@@ -286,7 +286,7 @@ const samples = [
     coord_b: "D3",
     prefix: "166_1_D9",
     replica: 1,
-    file: "166_1_D9_E-2014-002947.ome.tiff",
+    file: "166_1_D9_E-2014-002947",
   },
   {
     histo: "E-2013-027803",
@@ -303,7 +303,7 @@ const samples = [
     coord_b: "D4",
     prefix: "166_1_D10",
     replica: 1,
-    file: "166_1_D10_E-2013-027803.ome.tiff",
+    file: "166_1_D10_E-2013-027803",
   },
   {
     histo: "E-2013-031316",
@@ -320,7 +320,7 @@ const samples = [
     coord_b: "D5",
     prefix: "166_1_D11",
     replica: 1,
-    file: "166_1_D11_E-2013-031316.ome.tiff",
+    file: "166_1_D11_E-2013-031316",
   },
   {
     histo: "E-2013-036149",
@@ -337,7 +337,7 @@ const samples = [
     coord_b: "D6",
     prefix: "166_1_D12",
     replica: 1,
-    file: "166_1_D12_E-2013-036149.ome.tiff",
+    file: "166_1_D12_E-2013-036149",
   },
   {
     histo: "E-2013-029672",
@@ -354,7 +354,7 @@ const samples = [
     coord_b: "E1",
     prefix: "166_1_E7",
     replica: 1,
-    file: "166_1_E7_E-2013-029672.ome.tiff",
+    file: "166_1_E7_E-2013-029672",
   },
   {
     histo: "E-2013-043418",
@@ -371,7 +371,7 @@ const samples = [
     coord_b: "E2",
     prefix: "166_1_E8",
     replica: 1,
-    file: "166_1_E8_E-2013-043418.ome.tiff",
+    file: "166_1_E8_E-2013-043418",
   },
   {
     histo: "E-2014-001237",
@@ -388,7 +388,7 @@ const samples = [
     coord_b: "E3",
     prefix: "166_1_E9",
     replica: 1,
-    file: "166_1_E9_E-2014-001237.ome.tiff",
+    file: "166_1_E9_E-2014-001237",
   },
   {
     histo: "E-2003-015550",
@@ -405,7 +405,7 @@ const samples = [
     coord_b: "E4",
     prefix: "166_1_E10",
     replica: 1,
-    file: "166_1_E10_E-2003-015550.ome.tiff",
+    file: "166_1_E10_E-2003-015550",
   },
   {
     histo: "E-2006-036006",
@@ -422,7 +422,7 @@ const samples = [
     coord_b: "E5",
     prefix: "166_1_E11",
     replica: 1,
-    file: "166_1_E11_E-2006-036006.ome.tiff",
+    file: "166_1_E11_E-2006-036006",
   },
   {
     histo: "E-2011-015233",
@@ -439,7 +439,7 @@ const samples = [
     coord_b: "E6",
     prefix: "166_1_E12",
     replica: 1,
-    file: "166_1_E12_E-2011-015233.ome.tiff",
+    file: "166_1_E12_E-2011-015233",
   },
   {
     histo: "E-2011-038022",
@@ -456,7 +456,7 @@ const samples = [
     coord_b: "F1",
     prefix: "166_1_F7",
     replica: 1,
-    file: "166_1_F7_E-2011-038022.ome.tiff",
+    file: "166_1_F7_E-2011-038022",
   },
   {
     histo: "E-2011-044485",
@@ -473,7 +473,7 @@ const samples = [
     coord_b: "F2",
     prefix: "166_1_F8",
     replica: 1,
-    file: "166_1_F8_E-2011-044485.ome.tiff",
+    file: "166_1_F8_E-2011-044485",
   },
   {
     histo: "E-2012-008756",
@@ -490,7 +490,7 @@ const samples = [
     coord_b: "F3",
     prefix: "166_1_F9",
     replica: 1,
-    file: "166_1_F9_E-2012-008756.ome.tiff",
+    file: "166_1_F9_E-2012-008756",
   },
   {
     histo: "E-2012-017410",
@@ -507,7 +507,7 @@ const samples = [
     coord_b: "F4",
     prefix: "166_1_F10",
     replica: 1,
-    file: "166_1_F10_E-2012-017410.ome.tiff",
+    file: "166_1_F10_E-2012-017410",
   },
   {
     histo: "E-2012-022708",
@@ -524,7 +524,7 @@ const samples = [
     coord_b: "F5",
     prefix: "166_1_F11",
     replica: 1,
-    file: "166_1_F11_E-2012-022708.ome.tiff",
+    file: "166_1_F11_E-2012-022708",
   },
   {
     histo: "E-2011-048443",
@@ -541,7 +541,7 @@ const samples = [
     coord_b: "F6",
     prefix: "166_1_F12",
     replica: 1,
-    file: "166_1_F12_E-2011-048443.ome.tiff",
+    file: "166_1_F12_E-2011-048443",
   },
   {
     histo: "E-2012-002341",
@@ -558,7 +558,7 @@ const samples = [
     coord_b: "G1",
     prefix: "166_1_G7",
     replica: 1,
-    file: "166_1_G7_E-2012-002341.ome.tiff",
+    file: "166_1_G7_E-2012-002341",
   },
   {
     histo: "E-2012-032918",
@@ -575,7 +575,7 @@ const samples = [
     coord_b: "G2",
     prefix: "166_1_G8",
     replica: 1,
-    file: "166_1_G8_E-2012-032918.ome.tiff",
+    file: "166_1_G8_E-2012-032918",
   },
   {
     histo: "E-2012-040743",
@@ -592,7 +592,7 @@ const samples = [
     coord_b: "G3",
     prefix: "166_1_G9",
     replica: 1,
-    file: "166_1_G9_E-2012-040743.ome.tiff",
+    file: "166_1_G9_E-2012-040743",
   },
   {
     histo: "E-2013-002472",
@@ -609,7 +609,7 @@ const samples = [
     coord_b: "G4",
     prefix: "166_1_G10",
     replica: 1,
-    file: "166_1_G10_E-2013-002472.ome.tiff",
+    file: "166_1_G10_E-2013-002472",
   },
   {
     histo: "R-2009-000021",
@@ -626,7 +626,7 @@ const samples = [
     coord_b: "G5",
     prefix: "166_1_G11",
     replica: 1,
-    file: "166_1_G11_R-2009-000021.ome.tiff",
+    file: "166_1_G11_R-2009-000021",
   },
   {
     histo: "E-2008-031052",
@@ -643,7 +643,7 @@ const samples = [
     coord_b: "G6",
     prefix: "166_1_G12",
     replica: 1,
-    file: "166_1_G12_E-2008-031052.ome.tiff",
+    file: "166_1_G12_E-2008-031052",
   },
   {
     histo: "E-2002-040346",
@@ -660,7 +660,7 @@ const samples = [
     coord_b: "H1",
     prefix: "166_1_H7",
     replica: 1,
-    file: "166_1_H7_E-2002-040346.ome.tiff",
+    file: "166_1_H7_E-2002-040346",
   },
   {
     histo: "E-2004-017305",
@@ -677,7 +677,7 @@ const samples = [
     coord_b: "H2",
     prefix: "166_1_H8",
     replica: 1,
-    file: "166_1_H8_E-2004-017305.ome.tiff",
+    file: "166_1_H8_E-2004-017305",
   },
   {
     histo: "E-2010-041509",
@@ -694,7 +694,7 @@ const samples = [
     coord_b: "H3",
     prefix: "166_1_H9",
     replica: 1,
-    file: "166_1_H9_E-2010-041509.ome.tiff",
+    file: "166_1_H9_E-2010-041509",
   },
   {
     histo: "E-2010-042475",
@@ -711,7 +711,7 @@ const samples = [
     coord_b: "H4",
     prefix: "166_1_H10",
     replica: 1,
-    file: "166_1_H10_E-2010-042475.ome.tiff",
+    file: "166_1_H10_E-2010-042475",
   },
   {
     histo: "E-2010-045682",
@@ -728,7 +728,7 @@ const samples = [
     coord_b: "H5",
     prefix: "166_1_H11",
     replica: 1,
-    file: "166_1_H11_E-2010-045682.ome.tiff",
+    file: "166_1_H11_E-2010-045682",
   },
   {
     histo: "E-2011-009087",
@@ -745,7 +745,7 @@ const samples = [
     coord_b: "H6",
     prefix: "166_1_H12",
     replica: 1,
-    file: "166_1_H12_E-2011-009087.ome.tiff",
+    file: "166_1_H12_E-2011-009087",
   },
   {
     histo: "E-2011-009316",
@@ -762,7 +762,7 @@ const samples = [
     coord_b: "I1",
     prefix: "166_1_I7",
     replica: 1,
-    file: "166_1_I7_E-2011-009316.ome.tiff",
+    file: "166_1_I7_E-2011-009316",
   },
   {
     histo: "E-2011-010358",
@@ -779,7 +779,7 @@ const samples = [
     coord_b: "I2",
     prefix: "166_1_I8",
     replica: 1,
-    file: "166_1_I8_E-2011-010358.ome.tiff",
+    file: "166_1_I8_E-2011-010358",
   },
   {
     histo: "E-2011-011435",
@@ -796,7 +796,7 @@ const samples = [
     coord_b: "I3",
     prefix: "166_1_I9",
     replica: 1,
-    file: "166_1_I9_E-2011-011435.ome.tiff",
+    file: "166_1_I9_E-2011-011435",
   },
   {
     histo: "E-2011-013691",
@@ -813,7 +813,7 @@ const samples = [
     coord_b: "I4",
     prefix: "166_1_I10",
     replica: 1,
-    file: "166_1_I10_E-2011-013691.ome.tiff",
+    file: "166_1_I10_E-2011-013691",
   },
   {
     histo: "E-2004-000514",
@@ -830,7 +830,7 @@ const samples = [
     coord_b: "A3",
     prefix: "166_2_A9",
     replica: 1,
-    file: "166_2_A9_E-2004-000514.ome.tiff",
+    file: "166_2_A9_E-2004-000514",
   },
   {
     histo: "E-2010-027801",
@@ -847,7 +847,7 @@ const samples = [
     coord_b: "A4",
     prefix: "166_2_A10",
     replica: 1,
-    file: "166_2_A10_E-2010-027801.ome.tiff",
+    file: "166_2_A10_E-2010-027801",
   },
   {
     histo: "E-2013-002290",
@@ -864,7 +864,7 @@ const samples = [
     coord_b: "A5",
     prefix: "166_2_A11",
     replica: 1,
-    file: "166_2_A11_E-2013-002290.ome.tiff",
+    file: "166_2_A11_E-2013-002290",
   },
   {
     histo: "E-2013-042287",
@@ -881,7 +881,7 @@ const samples = [
     coord_b: "A6",
     prefix: "166_2_A12",
     replica: 1,
-    file: "166_2_A12_E-2013-042287.ome.tiff",
+    file: "166_2_A12_E-2013-042287",
   },
   {
     histo: "E-2013-045449",
@@ -898,7 +898,7 @@ const samples = [
     coord_b: "B1",
     prefix: "166_2_B7",
     replica: 1,
-    file: "166_2_B7_E-2013-045449.ome.tiff",
+    file: "166_2_B7_E-2013-045449",
   },
   {
     histo: "E-2013-049068",
@@ -915,7 +915,7 @@ const samples = [
     coord_b: "B2",
     prefix: "166_2_B8",
     replica: 1,
-    file: "166_2_B8_E-2013-049068.ome.tiff",
+    file: "166_2_B8_E-2013-049068",
   },
   {
     histo: "E-2014-008885",
@@ -932,7 +932,7 @@ const samples = [
     coord_b: "B3",
     prefix: "166_2_B9",
     replica: 1,
-    file: "166_2_B9_E-2014-008885.ome.tiff",
+    file: "166_2_B9_E-2014-008885",
   },
   {
     histo: "E-2014-009816",
@@ -949,7 +949,7 @@ const samples = [
     coord_b: "B4",
     prefix: "166_2_B10",
     replica: 1,
-    file: "166_2_B10_E-2014-009816.ome.tiff",
+    file: "166_2_B10_E-2014-009816",
   },
   {
     histo: "E-2014-014170",
@@ -966,7 +966,7 @@ const samples = [
     coord_b: "B5",
     prefix: "166_2_B11",
     replica: 1,
-    file: "166_2_B11_E-2014-014170.ome.tiff",
+    file: "166_2_B11_E-2014-014170",
   },
   {
     histo: "E-2013-035356",
@@ -983,7 +983,7 @@ const samples = [
     coord_b: "C5",
     prefix: "166_1_C11",
     replica: 1,
-    file: "166_1_C11_E-2013-035356.ome.tiff",
+    file: "166_1_C11_E-2013-035356",
   },
   {
     histo: "E-2013-037225",
@@ -1000,7 +1000,7 @@ const samples = [
     coord_b: "C6",
     prefix: "166_1_C12",
     replica: 1,
-    file: "166_1_C12_E-2013-037225.ome.tiff",
+    file: "166_1_C12_E-2013-037225",
   },
   {
     histo: "E-2014-007176",
@@ -1017,7 +1017,7 @@ const samples = [
     coord_b: "D2",
     prefix: "166_2_D8",
     replica: 1,
-    file: "166_2_D8_E-2014-007176.ome.tiff",
+    file: "166_2_D8_E-2014-007176",
   },
   {
     histo: "E-2014-025661",
@@ -1034,7 +1034,7 @@ const samples = [
     coord_b: "D3",
     prefix: "166_2_D9",
     replica: 1,
-    file: "166_2_D9_E-2014-025661.ome.tiff",
+    file: "166_2_D9_E-2014-025661",
   },
   {
     histo: "E-2013-042389",
@@ -1051,7 +1051,7 @@ const samples = [
     coord_b: "D4",
     prefix: "166_2_D10",
     replica: 1,
-    file: "166_2_D10_E-2013-042389.ome.tiff",
+    file: "166_2_D10_E-2013-042389",
   },
   {
     histo: "E-2013-044516",
@@ -1068,7 +1068,7 @@ const samples = [
     coord_b: "D5",
     prefix: "166_2_D11",
     replica: 1,
-    file: "166_2_D11_E-2013-044516.ome.tiff",
+    file: "166_2_D11_E-2013-044516",
   },
   {
     histo: "E-2013-049239",
@@ -1085,7 +1085,7 @@ const samples = [
     coord_b: "D6",
     prefix: "166_2_D12",
     replica: 1,
-    file: "166_2_D12_E-2013-049239.ome.tiff",
+    file: "166_2_D12_E-2013-049239",
   },
   {
     histo: "E-2014-001726",
@@ -1102,7 +1102,7 @@ const samples = [
     coord_b: "E1",
     prefix: "166_2_E7",
     replica: 1,
-    file: "166_2_E7_E-2014-001726.ome.tiff",
+    file: "166_2_E7_E-2014-001726",
   },
   {
     histo: "E-2014-010986",
@@ -1119,7 +1119,7 @@ const samples = [
     coord_b: "E2",
     prefix: "166_2_E8",
     replica: 1,
-    file: "166_2_E8_E-2014-010986.ome.tiff",
+    file: "166_2_E8_E-2014-010986",
   },
   {
     histo: "E-2008-015407",
@@ -1136,7 +1136,7 @@ const samples = [
     coord_b: "E3",
     prefix: "166_2_E9",
     replica: 1,
-    file: "166_2_E9_E-2008-015407.ome.tiff",
+    file: "166_2_E9_E-2008-015407",
   },
   {
     histo: "E-2008-027407",
@@ -1153,7 +1153,7 @@ const samples = [
     coord_b: "E4",
     prefix: "166_2_E10",
     replica: 1,
-    file: "166_2_E10_E-2008-027407.ome.tiff",
+    file: "166_2_E10_E-2008-027407",
   },
   {
     histo: "E-2012-023785",
@@ -1170,7 +1170,7 @@ const samples = [
     coord_b: "E5",
     prefix: "166_2_E11",
     replica: 1,
-    file: "166_2_E11_E-2012-023785.ome.tiff",
+    file: "166_2_E11_E-2012-023785",
   },
   {
     histo: "E-2012-025559",
@@ -1187,7 +1187,7 @@ const samples = [
     coord_b: "E6",
     prefix: "166_2_E12",
     replica: 1,
-    file: "166_2_E12_E-2012-025559.ome.tiff",
+    file: "166_2_E12_E-2012-025559",
   },
   {
     histo: "E-2012-032451",
@@ -1204,7 +1204,7 @@ const samples = [
     coord_b: "F1",
     prefix: "166_2_F7",
     replica: 1,
-    file: "166_2_F7_E-2012-032451.ome.tiff",
+    file: "166_2_F7_E-2012-032451",
   },
   {
     histo: "E-2012-038071",
@@ -1221,7 +1221,7 @@ const samples = [
     coord_b: "F2",
     prefix: "166_2_F8",
     replica: 1,
-    file: "166_2_F8_E-2012-038071.ome.tiff",
+    file: "166_2_F8_E-2012-038071",
   },
   {
     histo: "E-2012-039294",
@@ -1238,7 +1238,7 @@ const samples = [
     coord_b: "F3",
     prefix: "166_2_F9",
     replica: 1,
-    file: "166_2_F9_E-2012-039294.ome.tiff",
+    file: "166_2_F9_E-2012-039294",
   },
   {
     histo: "E-2013-012351",
@@ -1255,7 +1255,7 @@ const samples = [
     coord_b: "F4",
     prefix: "166_2_F10",
     replica: 1,
-    file: "166_2_F10_E-2013-012351.ome.tiff",
+    file: "166_2_F10_E-2013-012351",
   },
   {
     histo: "E-2013-028401",
@@ -1272,7 +1272,7 @@ const samples = [
     coord_b: "F5",
     prefix: "166_2_F11",
     replica: 1,
-    file: "166_2_F11_E-2013-028401.ome.tiff",
+    file: "166_2_F11_E-2013-028401",
   },
   {
     histo: "E-2013-014622",
@@ -1289,7 +1289,7 @@ const samples = [
     coord_b: "F6",
     prefix: "166_2_F12",
     replica: 1,
-    file: "166_2_F12_E-2013-014622.ome.tiff",
+    file: "166_2_F12_E-2013-014622",
   },
   {
     histo: "E-2013-018716",
@@ -1306,7 +1306,7 @@ const samples = [
     coord_b: "G1",
     prefix: "166_2_G7",
     replica: 1,
-    file: "166_2_G7_E-2013-018716.ome.tiff",
+    file: "166_2_G7_E-2013-018716",
   },
   {
     histo: "E-2013-023347",
@@ -1323,7 +1323,7 @@ const samples = [
     coord_b: "G2",
     prefix: "166_2_G8",
     replica: 1,
-    file: "166_2_G8_E-2013-023347.ome.tiff",
+    file: "166_2_G8_E-2013-023347",
   },
   {
     histo: "E-2013-042144",
@@ -1340,7 +1340,7 @@ const samples = [
     coord_b: "G3",
     prefix: "166_2_G9",
     replica: 1,
-    file: "166_2_G9_E-2013-042144.ome.tiff",
+    file: "166_2_G9_E-2013-042144",
   },
   {
     histo: "E-2013-043569",
@@ -1357,7 +1357,7 @@ const samples = [
     coord_b: "G4",
     prefix: "166_2_G10",
     replica: 1,
-    file: "166_2_G10_E-2013-043569.ome.tiff",
+    file: "166_2_G10_E-2013-043569",
   },
   {
     histo: "E-2014-002974",
@@ -1374,7 +1374,7 @@ const samples = [
     coord_b: "G5",
     prefix: "166_2_G11",
     replica: 1,
-    file: "166_2_G11_E-2014-002974.ome.tiff",
+    file: "166_2_G11_E-2014-002974",
   },
   {
     histo: "R-2010-004335",
@@ -1391,7 +1391,7 @@ const samples = [
     coord_b: "G6",
     prefix: "166_2_G12",
     replica: 1,
-    file: "166_2_G12_R-2010-004335.ome.tiff",
+    file: "166_2_G12_R-2010-004335",
   },
   {
     histo: "E-2009-002389",
@@ -1408,7 +1408,7 @@ const samples = [
     coord_b: "H1",
     prefix: "166_2_H7",
     replica: 1,
-    file: "166_2_H7_E-2009-002389.ome.tiff",
+    file: "166_2_H7_E-2009-002389",
   },
   {
     histo: "E-2004-035905",
@@ -1425,7 +1425,7 @@ const samples = [
     coord_b: "H2",
     prefix: "166_2_H8",
     replica: 1,
-    file: "166_2_H8_E-2004-035905.ome.tiff",
+    file: "166_2_H8_E-2004-035905",
   },
   {
     histo: "E-2011-016420",
@@ -1442,7 +1442,7 @@ const samples = [
     coord_b: "H3",
     prefix: "166_2_H9",
     replica: 1,
-    file: "166_2_H9_E-2011-016420.ome.tiff",
+    file: "166_2_H9_E-2011-016420",
   },
   {
     histo: "E-2011-016969",
@@ -1459,7 +1459,7 @@ const samples = [
     coord_b: "H4",
     prefix: "166_2_H10",
     replica: 1,
-    file: "166_2_H10_E-2011-016969.ome.tiff",
+    file: "166_2_H10_E-2011-016969",
   },
   {
     histo: "E-2011-017754",
@@ -1476,7 +1476,7 @@ const samples = [
     coord_b: "H5",
     prefix: "166_2_H11",
     replica: 1,
-    file: "166_2_H11_E-2011-017754.ome.tiff",
+    file: "166_2_H11_E-2011-017754",
   },
   {
     histo: "E-2011-018951",
@@ -1493,7 +1493,7 @@ const samples = [
     coord_b: "H6",
     prefix: "166_2_H12",
     replica: 1,
-    file: "166_2_H12_E-2011-018951.ome.tiff",
+    file: "166_2_H12_E-2011-018951",
   },
   {
     histo: "E-2011-021216",
@@ -1510,7 +1510,7 @@ const samples = [
     coord_b: "I1",
     prefix: "166_2_I7",
     replica: 1,
-    file: "166_2_I7_E-2011-021216.ome.tiff",
+    file: "166_2_I7_E-2011-021216",
   },
   {
     histo: "E-2011-022386",
@@ -1527,7 +1527,7 @@ const samples = [
     coord_b: "I2",
     prefix: "166_2_I8",
     replica: 1,
-    file: "166_2_I8_E-2011-022386.ome.tiff",
+    file: "166_2_I8_E-2011-022386",
   },
   {
     histo: "E-2011-023292",
@@ -1544,7 +1544,7 @@ const samples = [
     coord_b: "I3",
     prefix: "166_2_I9",
     replica: 1,
-    file: "166_2_I9_E-2011-023292.ome.tiff",
+    file: "166_2_I9_E-2011-023292",
   },
   {
     histo: "E-2013-023696",
@@ -1561,7 +1561,7 @@ const samples = [
     coord_b: "A3",
     prefix: "166_3_A9",
     replica: 1,
-    file: "166_3_A9_E-2013-023696.ome.tiff",
+    file: "166_3_A9_E-2013-023696",
   },
   {
     histo: "E-2014-026179",
@@ -1578,7 +1578,7 @@ const samples = [
     coord_b: "A4",
     prefix: "166_3_A10",
     replica: 1,
-    file: "166_3_A10_E-2014-026179.ome.tiff",
+    file: "166_3_A10_E-2014-026179",
   },
   {
     histo: "E-2014-037025",
@@ -1595,7 +1595,7 @@ const samples = [
     coord_b: "A5",
     prefix: "166_3_A11",
     replica: 1,
-    file: "166_3_A11_E-2014-037025.ome.tiff",
+    file: "166_3_A11_E-2014-037025",
   },
   {
     histo: "E-2014-015807",
@@ -1612,7 +1612,7 @@ const samples = [
     coord_b: "A6",
     prefix: "166_3_A12",
     replica: 1,
-    file: "166_3_A12_E-2014-015807.ome.tiff",
+    file: "166_3_A12_E-2014-015807",
   },
   {
     histo: "E-2014-030765",
@@ -1629,7 +1629,7 @@ const samples = [
     coord_b: "B1",
     prefix: "166_3_B7",
     replica: 1,
-    file: "166_3_B7_E-2014-030765.ome.tiff",
+    file: "166_3_B7_E-2014-030765",
   },
   {
     histo: "E-2014-034157",
@@ -1646,7 +1646,7 @@ const samples = [
     coord_b: "B2",
     prefix: "166_3_B8",
     replica: 1,
-    file: "166_3_B8_E-2014-034157.ome.tiff",
+    file: "166_3_B8_E-2014-034157",
   },
   {
     histo: "E-2014-035032",
@@ -1663,7 +1663,7 @@ const samples = [
     coord_b: "B3",
     prefix: "166_3_B9",
     replica: 1,
-    file: "166_3_B9_E-2014-035032.ome.tiff",
+    file: "166_3_B9_E-2014-035032",
   },
   {
     histo: "E-2014-036607",
@@ -1680,7 +1680,7 @@ const samples = [
     coord_b: "B4",
     prefix: "166_3_B10",
     replica: 1,
-    file: "166_3_B10_E-2014-036607.ome.tiff",
+    file: "166_3_B10_E-2014-036607",
   },
   {
     histo: "E-2014-041180",
@@ -1697,7 +1697,7 @@ const samples = [
     coord_b: "B5",
     prefix: "166_3_B11",
     replica: 1,
-    file: "166_3_B11_E-2014-041180.ome.tiff",
+    file: "166_3_B11_E-2014-041180",
   },
   {
     histo: "E-2014-030949",
@@ -1714,7 +1714,7 @@ const samples = [
     coord_b: "D1",
     prefix: "166_3_D7",
     replica: 1,
-    file: "166_3_D7_E-2014-030949.ome.tiff",
+    file: "166_3_D7_E-2014-030949",
   },
   {
     histo: "E-2014-033655",
@@ -1731,7 +1731,7 @@ const samples = [
     coord_b: "D2",
     prefix: "166_3_D8",
     replica: 1,
-    file: "166_3_D8_E-2014-033655.ome.tiff",
+    file: "166_3_D8_E-2014-033655",
   },
   {
     histo: "E-2014-035320",
@@ -1748,7 +1748,7 @@ const samples = [
     coord_b: "D3",
     prefix: "166_3_D9",
     replica: 1,
-    file: "166_3_D9_E-2014-035320.ome.tiff",
+    file: "166_3_D9_E-2014-035320",
   },
   {
     histo: "E-2014-011769",
@@ -1765,7 +1765,7 @@ const samples = [
     coord_b: "D4",
     prefix: "166_3_D10",
     replica: 1,
-    file: "166_3_D10_E-2014-011769.ome.tiff",
+    file: "166_3_D10_E-2014-011769",
   },
   {
     histo: "E-2014-015408",
@@ -1782,7 +1782,7 @@ const samples = [
     coord_b: "D5",
     prefix: "166_3_D11",
     replica: 1,
-    file: "166_3_D11_E-2014-015408.ome.tiff",
+    file: "166_3_D11_E-2014-015408",
   },
   {
     histo: "E-2014-030037",
@@ -1799,7 +1799,7 @@ const samples = [
     coord_b: "D6",
     prefix: "166_3_D12",
     replica: 1,
-    file: "166_3_D12_E-2014-030037.ome.tiff",
+    file: "166_3_D12_E-2014-030037",
   },
   {
     histo: "E-2014-012842",
@@ -1816,7 +1816,7 @@ const samples = [
     coord_b: "E1",
     prefix: "166_3_E7",
     replica: 1,
-    file: "166_3_E7_E-2014-012842.ome.tiff",
+    file: "166_3_E7_E-2014-012842",
   },
   {
     histo: "E-2014-013712",
@@ -1833,7 +1833,7 @@ const samples = [
     coord_b: "E2",
     prefix: "166_3_E8",
     replica: 1,
-    file: "166_3_E8_E-2014-013712.ome.tiff",
+    file: "166_3_E8_E-2014-013712",
   },
   {
     histo: "E-2011-041081",
@@ -1850,7 +1850,7 @@ const samples = [
     coord_b: "E3",
     prefix: "166_3_E9",
     replica: 1,
-    file: "166_3_E9_E-2011-041081.ome.tiff",
+    file: "166_3_E9_E-2011-041081",
   },
   {
     histo: "E-2012-028260",
@@ -1867,7 +1867,7 @@ const samples = [
     coord_b: "E4",
     prefix: "166_3_E10",
     replica: 1,
-    file: "166_3_E10_E-2012-028260.ome.tiff",
+    file: "166_3_E10_E-2012-028260",
   },
   {
     histo: "E-2013-028927",
@@ -1884,7 +1884,7 @@ const samples = [
     coord_b: "E5",
     prefix: "166_3_E11",
     replica: 1,
-    file: "166_3_E11_E-2013-028927.ome.tiff",
+    file: "166_3_E11_E-2013-028927",
   },
   {
     histo: "E-2013-029982",
@@ -1901,7 +1901,7 @@ const samples = [
     coord_b: "E6",
     prefix: "166_3_E12",
     replica: 1,
-    file: "166_3_E12_E-2013-029982.ome.tiff",
+    file: "166_3_E12_E-2013-029982",
   },
   {
     histo: "E-2013-046704",
@@ -1918,7 +1918,7 @@ const samples = [
     coord_b: "F1",
     prefix: "166_3_F7",
     replica: 1,
-    file: "166_3_F7_E-2013-046704.ome.tiff",
+    file: "166_3_F7_E-2013-046704",
   },
   {
     histo: "E-2014-001824",
@@ -1935,7 +1935,7 @@ const samples = [
     coord_b: "F2",
     prefix: "166_3_F8",
     replica: 1,
-    file: "166_3_F8_E-2014-001824.ome.tiff",
+    file: "166_3_F8_E-2014-001824",
   },
   {
     histo: "E-2014-005180",
@@ -1952,7 +1952,7 @@ const samples = [
     coord_b: "F3",
     prefix: "166_3_F9",
     replica: 1,
-    file: "166_3_F9_E-2014-005180.ome.tiff",
+    file: "166_3_F9_E-2014-005180",
   },
   {
     histo: "E-2014-032901",
@@ -1969,7 +1969,7 @@ const samples = [
     coord_b: "F4",
     prefix: "166_3_F10",
     replica: 1,
-    file: "166_3_F10_E-2014-032901.ome.tiff",
+    file: "166_3_F10_E-2014-032901",
   },
   {
     histo: "E-2014-027052",
@@ -1986,7 +1986,7 @@ const samples = [
     coord_b: "F5",
     prefix: "166_3_F11",
     replica: 1,
-    file: "166_3_F11_E-2014-027052.ome.tiff",
+    file: "166_3_F11_E-2014-027052",
   },
   {
     histo: "E-2014-038354",
@@ -2003,7 +2003,7 @@ const samples = [
     coord_b: "F6",
     prefix: "166_3_F12",
     replica: 1,
-    file: "166_3_F12_E-2014-038354.ome.tiff",
+    file: "166_3_F12_E-2014-038354",
   },
   {
     histo: "E-2014-038651",
@@ -2020,7 +2020,7 @@ const samples = [
     coord_b: "G1",
     prefix: "166_3_G7",
     replica: 1,
-    file: "166_3_G7_E-2014-038651.ome.tiff",
+    file: "166_3_G7_E-2014-038651",
   },
   {
     histo: "E-2015-002425",
@@ -2037,7 +2037,7 @@ const samples = [
     coord_b: "G2",
     prefix: "166_3_G8",
     replica: 1,
-    file: "166_3_G8_E-2015-002425.ome.tiff",
+    file: "166_3_G8_E-2015-002425",
   },
   {
     histo: "E-2015-005665",
@@ -2054,7 +2054,7 @@ const samples = [
     coord_b: "G3",
     prefix: "166_3_G9",
     replica: 1,
-    file: "166_3_G9_E-2015-005665.ome.tiff",
+    file: "166_3_G9_E-2015-005665",
   },
   {
     histo: "R-2012-000567",
@@ -2071,7 +2071,7 @@ const samples = [
     coord_b: "G4",
     prefix: "166_3_G10",
     replica: 1,
-    file: "166_3_G10_R-2012-000567.ome.tiff",
+    file: "166_3_G10_R-2012-000567",
   },
   {
     histo: "E-2009-041128",
@@ -2088,7 +2088,7 @@ const samples = [
     coord_b: "G5",
     prefix: "166_3_G11",
     replica: 1,
-    file: "166_3_G11_E-2009-041128.ome.tiff",
+    file: "166_3_G11_E-2009-041128",
   },
   {
     histo: "E-2008-009080",
@@ -2105,7 +2105,7 @@ const samples = [
     coord_b: "G6",
     prefix: "166_3_G12",
     replica: 1,
-    file: "166_3_G12_E-2008-009080.ome.tiff",
+    file: "166_3_G12_E-2008-009080",
   },
   {
     histo: "E-2010-005325",
@@ -2122,7 +2122,7 @@ const samples = [
     coord_b: "H1",
     prefix: "166_3_H7",
     replica: 1,
-    file: "166_3_H7_E-2010-005325.ome.tiff",
+    file: "166_3_H7_E-2010-005325",
   },
   {
     histo: "E-2011-030484",
@@ -2139,7 +2139,7 @@ const samples = [
     coord_b: "H2",
     prefix: "166_3_H8",
     replica: 1,
-    file: "166_3_H8_E-2011-030484.ome.tiff",
+    file: "166_3_H8_E-2011-030484",
   },
   {
     histo: "E-2011-031101",
@@ -2156,7 +2156,7 @@ const samples = [
     coord_b: "H3",
     prefix: "166_3_H9",
     replica: 1,
-    file: "166_3_H9_E-2011-031101.ome.tiff",
+    file: "166_3_H9_E-2011-031101",
   },
   {
     histo: "E-2011-031340",
@@ -2173,7 +2173,7 @@ const samples = [
     coord_b: "H4",
     prefix: "166_3_H10",
     replica: 1,
-    file: "166_3_H10_E-2011-031340.ome.tiff",
+    file: "166_3_H10_E-2011-031340",
   },
   {
     histo: "E-2011-035985",
@@ -2190,7 +2190,7 @@ const samples = [
     coord_b: "H5",
     prefix: "166_3_H11",
     replica: 1,
-    file: "166_3_H11_E-2011-035985.ome.tiff",
+    file: "166_3_H11_E-2011-035985",
   },
   {
     histo: "E-2011-036375",
@@ -2207,7 +2207,7 @@ const samples = [
     coord_b: "H6",
     prefix: "166_3_H12",
     replica: 1,
-    file: "166_3_H12_E-2011-036375.ome.tiff",
+    file: "166_3_H12_E-2011-036375",
   },
   {
     histo: "E-2011-036548",
@@ -2224,7 +2224,7 @@ const samples = [
     coord_b: "I1",
     prefix: "166_3_I7",
     replica: 1,
-    file: "166_3_I7_E-2011-036548.ome.tiff",
+    file: "166_3_I7_E-2011-036548",
   },
   {
     histo: "E-2011-037450",
@@ -2241,7 +2241,7 @@ const samples = [
     coord_b: "I2",
     prefix: "166_3_I8",
     replica: 1,
-    file: "166_3_I8_E-2011-037450.ome.tiff",
+    file: "166_3_I8_E-2011-037450",
   },
   {
     histo: "E-2011-039663",
@@ -2258,7 +2258,7 @@ const samples = [
     coord_b: "I3",
     prefix: "166_3_I9",
     replica: 1,
-    file: "166_3_I9_E-2011-039663.ome.tiff",
+    file: "166_3_I9_E-2011-039663",
   },
   {
     histo: "E-2014-047049",
@@ -2275,7 +2275,7 @@ const samples = [
     coord_b: "A3",
     prefix: "166_4_A9",
     replica: 1,
-    file: "166_4_A9_E-2014-047049.ome.tiff",
+    file: "166_4_A9_E-2014-047049",
   },
   {
     histo: "E-2015-012223",
@@ -2292,7 +2292,7 @@ const samples = [
     coord_b: "A4",
     prefix: "166_4_A10",
     replica: 1,
-    file: "166_4_A10_E-2015-012223.ome.tiff",
+    file: "166_4_A10_E-2015-012223",
   },
   {
     histo: "E-2014-051359",
@@ -2309,7 +2309,7 @@ const samples = [
     coord_b: "A5",
     prefix: "166_4_A11",
     replica: 1,
-    file: "166_4_A11_E-2014-051359.ome.tiff",
+    file: "166_4_A11_E-2014-051359",
   },
   {
     histo: "E-2014-052648",
@@ -2326,7 +2326,7 @@ const samples = [
     coord_b: "A6",
     prefix: "166_4_A12",
     replica: 1,
-    file: "166_4_A12_E-2014-052648.ome.tiff",
+    file: "166_4_A12_E-2014-052648",
   },
   {
     histo: "E-2015-004416",
@@ -2343,7 +2343,7 @@ const samples = [
     coord_b: "B1",
     prefix: "166_4_B7",
     replica: 1,
-    file: "166_4_B7_E-2015-004416.ome.tiff",
+    file: "166_4_B7_E-2015-004416",
   },
   {
     histo: "E-2015-008895",
@@ -2360,7 +2360,7 @@ const samples = [
     coord_b: "B2",
     prefix: "166_4_B8",
     replica: 1,
-    file: "166_4_B8_E-2015-008895.ome.tiff",
+    file: "166_4_B8_E-2015-008895",
   },
   {
     histo: "E-2015-012122",
@@ -2377,7 +2377,7 @@ const samples = [
     coord_b: "B3",
     prefix: "166_4_B9",
     replica: 1,
-    file: "166_4_B9_E-2015-012122.ome.tiff",
+    file: "166_4_B9_E-2015-012122",
   },
   {
     histo: "E-2015-019428",
@@ -2394,7 +2394,7 @@ const samples = [
     coord_b: "B4",
     prefix: "166_4_B10",
     replica: 1,
-    file: "166_4_B10_E-2015-019428.ome.tiff",
+    file: "166_4_B10_E-2015-019428",
   },
   {
     histo: "R-2005-001044",
@@ -2411,7 +2411,7 @@ const samples = [
     coord_b: "B5",
     prefix: "166_4_B11",
     replica: 1,
-    file: "166_4_B11_R-2005-001044.ome.tiff",
+    file: "166_4_B11_R-2005-001044",
   },
   {
     histo: "E-2014-046431",
@@ -2428,7 +2428,7 @@ const samples = [
     coord_b: "B6",
     prefix: "166_2_B12",
     replica: 1,
-    file: "166_2_B12_E-2014-046431.ome.tiff",
+    file: "166_2_B12_E-2014-046431",
   },
   {
     histo: "E-2015-003039",
@@ -2445,7 +2445,7 @@ const samples = [
     coord_b: "C1",
     prefix: "166_2_C7",
     replica: 1,
-    file: "166_2_C7_E-2015-003039.ome.tiff",
+    file: "166_2_C7_E-2015-003039",
   },
   {
     histo: "E-2014-050384",
@@ -2462,7 +2462,7 @@ const samples = [
     coord_b: "D2",
     prefix: "166_4_D8",
     replica: 1,
-    file: "166_4_D8_E-2014-050384.ome.tiff",
+    file: "166_4_D8_E-2014-050384",
   },
   {
     histo: "E-2015-008364",
@@ -2479,7 +2479,7 @@ const samples = [
     coord_b: "D3",
     prefix: "166_4_D9",
     replica: 1,
-    file: "166_4_D9_E-2015-008364.ome.tiff",
+    file: "166_4_D9_E-2015-008364",
   },
   {
     histo: "E-2015-017736",
@@ -2496,7 +2496,7 @@ const samples = [
     coord_b: "D4",
     prefix: "166_4_D10",
     replica: 1,
-    file: "166_4_D10_E-2015-017736.ome.tiff",
+    file: "166_4_D10_E-2015-017736",
   },
   {
     histo: "E-2014-038327",
@@ -2513,7 +2513,7 @@ const samples = [
     coord_b: "D5",
     prefix: "166_4_D11",
     replica: 1,
-    file: "166_4_D11_E-2014-038327.ome.tiff",
+    file: "166_4_D11_E-2014-038327",
   },
   {
     histo: "E-2014-050885",
@@ -2530,7 +2530,7 @@ const samples = [
     coord_b: "D6",
     prefix: "166_4_D12",
     replica: 1,
-    file: "166_4_D12_E-2014-050885.ome.tiff",
+    file: "166_4_D12_E-2014-050885",
   },
   {
     histo: "E-2014-051638",
@@ -2547,7 +2547,7 @@ const samples = [
     coord_b: "E1",
     prefix: "166_4_E7",
     replica: 1,
-    file: "166_4_E7_E-2014-051638.ome.tiff",
+    file: "166_4_E7_E-2014-051638",
   },
   {
     histo: "E-2014-049326",
@@ -2564,7 +2564,7 @@ const samples = [
     coord_b: "E2",
     prefix: "166_4_E8",
     replica: 1,
-    file: "166_4_E8_E-2014-049326.ome.tiff",
+    file: "166_4_E8_E-2014-049326",
   },
   {
     histo: "E-2014-051595",
@@ -2581,7 +2581,7 @@ const samples = [
     coord_b: "E3",
     prefix: "166_4_E9",
     replica: 1,
-    file: "166_4_E9_E-2014-051595.ome.tiff",
+    file: "166_4_E9_E-2014-051595",
   },
   {
     histo: "E-2014-053410",
@@ -2598,7 +2598,7 @@ const samples = [
     coord_b: "E4",
     prefix: "166_4_E10",
     replica: 1,
-    file: "166_4_E10_E-2014-053410.ome.tiff",
+    file: "166_4_E10_E-2014-053410",
   },
   {
     histo: "E-2014-035309",
@@ -2615,7 +2615,7 @@ const samples = [
     coord_b: "E5",
     prefix: "166_4_E11",
     replica: 1,
-    file: "166_4_E11_E-2014-035309.ome.tiff",
+    file: "166_4_E11_E-2014-035309",
   },
   {
     histo: "E-2014-047648",
@@ -2632,7 +2632,7 @@ const samples = [
     coord_b: "E6",
     prefix: "166_4_E12",
     replica: 1,
-    file: "166_4_E12_E-2014-047648.ome.tiff",
+    file: "166_4_E12_E-2014-047648",
   },
   {
     histo: "E-2015-001418",
@@ -2649,7 +2649,7 @@ const samples = [
     coord_b: "F1",
     prefix: "166_4_F7",
     replica: 1,
-    file: "166_4_F7_E-2015-001418.ome.tiff",
+    file: "166_4_F7_E-2015-001418",
   },
   {
     histo: "E-2015-014108",
@@ -2666,7 +2666,7 @@ const samples = [
     coord_b: "F2",
     prefix: "166_4_F8",
     replica: 1,
-    file: "166_4_F8_E-2015-014108.ome.tiff",
+    file: "166_4_F8_E-2015-014108",
   },
   {
     histo: "E-2015-018880",
@@ -2683,7 +2683,7 @@ const samples = [
     coord_b: "F3",
     prefix: "166_4_F9",
     replica: 1,
-    file: "166_4_F9_E-2015-018880.ome.tiff",
+    file: "166_4_F9_E-2015-018880",
   },
   {
     histo: "E-2015-027745",
@@ -2700,7 +2700,7 @@ const samples = [
     coord_b: "F4",
     prefix: "166_4_F10",
     replica: 1,
-    file: "166_4_F10_E-2015-027745.ome.tiff",
+    file: "166_4_F10_E-2015-027745",
   },
   {
     histo: "E-2015-028446",
@@ -2717,7 +2717,7 @@ const samples = [
     coord_b: "F5",
     prefix: "166_4_F11",
     replica: 1,
-    file: "166_4_F11_E-2015-028446.ome.tiff",
+    file: "166_4_F11_E-2015-028446",
   },
   {
     histo: "E-2015-011110",
@@ -2734,7 +2734,7 @@ const samples = [
     coord_b: "F6",
     prefix: "166_4_F12",
     replica: 1,
-    file: "166_4_F12_E-2015-011110.ome.tiff",
+    file: "166_4_F12_E-2015-011110",
   },
   {
     histo: "E-2015-017746",
@@ -2751,7 +2751,7 @@ const samples = [
     coord_b: "G1",
     prefix: "166_4_G7",
     replica: 1,
-    file: "166_4_G7_E-2015-017746.ome.tiff",
+    file: "166_4_G7_E-2015-017746",
   },
   {
     histo: "E-2015-026052",
@@ -2768,7 +2768,7 @@ const samples = [
     coord_b: "G2",
     prefix: "166_4_G8",
     replica: 1,
-    file: "166_4_G8_E-2015-026052.ome.tiff",
+    file: "166_4_G8_E-2015-026052",
   },
   {
     histo: "E-2015-028452",
@@ -2785,7 +2785,7 @@ const samples = [
     coord_b: "G3",
     prefix: "166_4_G9",
     replica: 1,
-    file: "166_4_G9_E-2015-028452.ome.tiff",
+    file: "166_4_G9_E-2015-028452",
   },
   {
     histo: "E-2015-031365",
@@ -2802,7 +2802,7 @@ const samples = [
     coord_b: "G4",
     prefix: "166_4_G10",
     replica: 1,
-    file: "166_4_G10_E-2015-031365.ome.tiff",
+    file: "166_4_G10_E-2015-031365",
   },
   {
     histo: "R-2013-001386",
@@ -2819,7 +2819,7 @@ const samples = [
     coord_b: "G5",
     prefix: "166_4_G11",
     replica: 1,
-    file: "166_4_G11_R-2013-001386.ome.tiff",
+    file: "166_4_G11_R-2013-001386",
   },
   {
     histo: "E-2011-012797",
@@ -2836,7 +2836,7 @@ const samples = [
     coord_b: "G6",
     prefix: "166_4_G12",
     replica: 1,
-    file: "166_4_G12_E-2011-012797.ome.tiff",
+    file: "166_4_G12_E-2011-012797",
   },
   {
     histo: "E-2015-021567",
@@ -2853,7 +2853,7 @@ const samples = [
     coord_b: "H1",
     prefix: "166_4_H7",
     replica: 1,
-    file: "166_4_H7_E-2015-021567.ome.tiff",
+    file: "166_4_H7_E-2015-021567",
   },
   {
     histo: "E-2011-039991",
@@ -2870,7 +2870,7 @@ const samples = [
     coord_b: "H2",
     prefix: "166_4_H8",
     replica: 1,
-    file: "166_4_H8_E-2011-039991.ome.tiff",
+    file: "166_4_H8_E-2011-039991",
   },
   {
     histo: "E-2011-041442",
@@ -2887,7 +2887,7 @@ const samples = [
     coord_b: "H3",
     prefix: "166_4_H9",
     replica: 1,
-    file: "166_4_H9_E-2011-041442.ome.tiff",
+    file: "166_4_H9_E-2011-041442",
   },
   {
     histo: "E-2011-044099",
@@ -2904,7 +2904,7 @@ const samples = [
     coord_b: "H4",
     prefix: "166_4_H10",
     replica: 1,
-    file: "166_4_H10_E-2011-044099.ome.tiff",
+    file: "166_4_H10_E-2011-044099",
   },
   {
     histo: "E-2011-044487",
@@ -2921,7 +2921,7 @@ const samples = [
     coord_b: "H5",
     prefix: "166_4_H11",
     replica: 1,
-    file: "166_4_H11_E-2011-044487.ome.tiff",
+    file: "166_4_H11_E-2011-044487",
   },
   {
     histo: "E-2011-045833",
@@ -2938,7 +2938,7 @@ const samples = [
     coord_b: "H6",
     prefix: "166_4_H12",
     replica: 1,
-    file: "166_4_H12_E-2011-045833.ome.tiff",
+    file: "166_4_H12_E-2011-045833",
   },
   {
     histo: "E-2011-046026",
@@ -2955,7 +2955,7 @@ const samples = [
     coord_b: "I1",
     prefix: "166_4_I7",
     replica: 1,
-    file: "166_4_I7_E-2011-046026.ome.tiff",
+    file: "166_4_I7_E-2011-046026",
   },
   {
     histo: "E-2011-046116",
@@ -2972,7 +2972,7 @@ const samples = [
     coord_b: "I2",
     prefix: "166_4_I8",
     replica: 1,
-    file: "166_4_I8_E-2011-046116.ome.tiff",
+    file: "166_4_I8_E-2011-046116",
   },
   {
     histo: "E-2000-013662",
@@ -2989,7 +2989,7 @@ const samples = [
     coord_b: "A3",
     prefix: "166_1_A3",
     replica: 2,
-    file: "166_1_A3_Burkitt.ome.tiff",
+    file: "166_1_A3_Burkitt",
   },
   {
     histo: "E-2003-019643",
@@ -3006,7 +3006,7 @@ const samples = [
     coord_b: "A4",
     prefix: "166_1_A4",
     replica: 2,
-    file: "166_1_A4_Burkitt.ome.tiff",
+    file: "166_1_A4_Burkitt",
   },
   {
     histo: "E-2013-025139",
@@ -3023,7 +3023,7 @@ const samples = [
     coord_b: "A5",
     prefix: "166_1_A5",
     replica: 2,
-    file: "166_1_A5_DLBCL.ome.tiff",
+    file: "166_1_A5_DLBCL",
   },
   {
     histo: "E-2013-028657",
@@ -3040,7 +3040,7 @@ const samples = [
     coord_b: "A6",
     prefix: "166_1_A6",
     replica: 2,
-    file: "166_1_A6_DLBCL.ome.tiff",
+    file: "166_1_A6_DLBCL",
   },
   {
     histo: "E-2013-029210",
@@ -3057,7 +3057,7 @@ const samples = [
     coord_b: "B1",
     prefix: "166_1_B1",
     replica: 2,
-    file: "166_1_B1_DLBCL.ome.tiff",
+    file: "166_1_B1_DLBCL",
   },
   {
     histo: "E-2013-029706",
@@ -3074,7 +3074,7 @@ const samples = [
     coord_b: "B2",
     prefix: "166_1_B2",
     replica: 2,
-    file: "166_1_B2_DLBCL.ome.tiff",
+    file: "166_1_B2_DLBCL",
   },
   {
     histo: "E-2013-030277",
@@ -3091,7 +3091,7 @@ const samples = [
     coord_b: "B3",
     prefix: "166_1_B3",
     replica: 2,
-    file: "166_1_B3_DLBCL.ome.tiff",
+    file: "166_1_B3_DLBCL",
   },
   {
     histo: "E-2013-031977",
@@ -3108,7 +3108,7 @@ const samples = [
     coord_b: "B4",
     prefix: "166_1_B4",
     replica: 2,
-    file: "166_1_B4_DLBCL.ome.tiff",
+    file: "166_1_B4_DLBCL",
   },
   {
     histo: "E-2013-034380",
@@ -3125,7 +3125,7 @@ const samples = [
     coord_b: "B5",
     prefix: "166_1_B5",
     replica: 2,
-    file: "166_1_B5_DLBCL.ome.tiff",
+    file: "166_1_B5_DLBCL",
   },
   {
     histo: "E-2012-040417",
@@ -3142,7 +3142,7 @@ const samples = [
     coord_b: "B6",
     prefix: "166_1_B6",
     replica: 2,
-    file: "166_1_B6_CLL.ome.tiff",
+    file: "166_1_B6_CLL",
   },
   {
     histo: "E-2013-003142",
@@ -3159,7 +3159,7 @@ const samples = [
     coord_b: "C1",
     prefix: "166_1_C1",
     replica: 2,
-    file: "166_1_C1_CLL.ome.tiff",
+    file: "166_1_C1_CLL",
   },
   {
     histo: "E-2013-009366",
@@ -3176,7 +3176,7 @@ const samples = [
     coord_b: "C2",
     prefix: "166_1_C2",
     replica: 2,
-    file: "166_1_C2_CLL.ome.tiff",
+    file: "166_1_C2_CLL",
   },
   {
     histo: "E-2013-015175",
@@ -3193,7 +3193,7 @@ const samples = [
     coord_b: "C3",
     prefix: "166_1_C3",
     replica: 2,
-    file: "166_1_C3_CLL.ome.tiff",
+    file: "166_1_C3_CLL",
   },
   {
     histo: "E-2013-021054",
@@ -3210,7 +3210,7 @@ const samples = [
     coord_b: "C4",
     prefix: "166_1_C4",
     replica: 2,
-    file: "166_1_C4_CLL.ome.tiff",
+    file: "166_1_C4_CLL",
   },
   {
     histo: "E-2012-045485",
@@ -3227,7 +3227,7 @@ const samples = [
     coord_b: "D1",
     prefix: "166_1_D1",
     replica: 2,
-    file: "166_1_D1_FL1.ome.tiff",
+    file: "166_1_D1_FL1",
   },
   {
     histo: "E-2013-002881",
@@ -3244,7 +3244,7 @@ const samples = [
     coord_b: "D2",
     prefix: "166_1_D2",
     replica: 2,
-    file: "166_1_D2_FL1.ome.tiff",
+    file: "166_1_D2_FL1",
   },
   {
     histo: "E-2014-002947",
@@ -3261,7 +3261,7 @@ const samples = [
     coord_b: "D3",
     prefix: "166_1_D3",
     replica: 2,
-    file: "166_1_D3_FL1.ome.tiff",
+    file: "166_1_D3_FL1",
   },
   {
     histo: "E-2013-027803",
@@ -3278,7 +3278,7 @@ const samples = [
     coord_b: "D4",
     prefix: "166_1_D4",
     replica: 2,
-    file: "166_1_D4_FL2.ome.tiff",
+    file: "166_1_D4_FL2",
   },
   {
     histo: "E-2013-031316",
@@ -3295,7 +3295,7 @@ const samples = [
     coord_b: "D5",
     prefix: "166_1_D5",
     replica: 2,
-    file: "166_1_D5_FL2.ome.tiff",
+    file: "166_1_D5_FL2",
   },
   {
     histo: "E-2013-036149",
@@ -3312,7 +3312,7 @@ const samples = [
     coord_b: "D6",
     prefix: "166_1_D6",
     replica: 2,
-    file: "166_1_D6_FL2.ome.tiff",
+    file: "166_1_D6_FL2",
   },
   {
     histo: "E-2013-029672",
@@ -3329,7 +3329,7 @@ const samples = [
     coord_b: "E1",
     prefix: "166_1_E1",
     replica: 2,
-    file: "166_1_E1_FL3a.ome.tiff",
+    file: "166_1_E1_FL3a",
   },
   {
     histo: "E-2013-043418",
@@ -3346,7 +3346,7 @@ const samples = [
     coord_b: "E2",
     prefix: "166_1_E2",
     replica: 2,
-    file: "166_1_E2_FL3a.ome.tiff",
+    file: "166_1_E2_FL3a",
   },
   {
     histo: "E-2014-001237",
@@ -3363,7 +3363,7 @@ const samples = [
     coord_b: "E3",
     prefix: "166_1_E3",
     replica: 2,
-    file: "166_1_E3_FL3a.ome.tiff",
+    file: "166_1_E3_FL3a",
   },
   {
     histo: "E-2003-015550",
@@ -3380,7 +3380,7 @@ const samples = [
     coord_b: "E4",
     prefix: "166_1_E4",
     replica: 2,
-    file: "166_1_E4_FL3b.ome.tiff",
+    file: "166_1_E4_FL3b",
   },
   {
     histo: "E-2006-036006",
@@ -3397,7 +3397,7 @@ const samples = [
     coord_b: "E5",
     prefix: "166_1_E5",
     replica: 2,
-    file: "166_1_E5_FL3b.ome.tiff",
+    file: "166_1_E5_FL3b",
   },
   {
     histo: "E-2011-015233",
@@ -3414,7 +3414,7 @@ const samples = [
     coord_b: "E6",
     prefix: "166_1_E6",
     replica: 2,
-    file: "166_1_E6_MCL.ome.tiff",
+    file: "166_1_E6_MCL",
   },
   {
     histo: "E-2011-038022",
@@ -3431,7 +3431,7 @@ const samples = [
     coord_b: "F1",
     prefix: "166_1_F1",
     replica: 2,
-    file: "166_1_F1_MCL.ome.tiff",
+    file: "166_1_F1_MCL",
   },
   {
     histo: "E-2011-044485",
@@ -3448,7 +3448,7 @@ const samples = [
     coord_b: "F2",
     prefix: "166_1_F2",
     replica: 2,
-    file: "166_1_F2_MCL.ome.tiff",
+    file: "166_1_F2_MCL",
   },
   {
     histo: "E-2012-008756",
@@ -3465,7 +3465,7 @@ const samples = [
     coord_b: "F3",
     prefix: "166_1_F3",
     replica: 2,
-    file: "166_1_F3_MCL.ome.tiff",
+    file: "166_1_F3_MCL",
   },
   {
     histo: "E-2012-017410",
@@ -3482,7 +3482,7 @@ const samples = [
     coord_b: "F4",
     prefix: "166_1_F4",
     replica: 2,
-    file: "166_1_F4_MCL.ome.tiff",
+    file: "166_1_F4_MCL",
   },
   {
     histo: "E-2012-022708",
@@ -3499,7 +3499,7 @@ const samples = [
     coord_b: "F5",
     prefix: "166_1_F5",
     replica: 2,
-    file: "166_1_F5_MCL.ome.tiff",
+    file: "166_1_F5_MCL",
   },
   {
     histo: "E-2011-048443",
@@ -3516,7 +3516,7 @@ const samples = [
     coord_b: "F6",
     prefix: "166_1_F6",
     replica: 2,
-    file: "166_1_F6_MZL.ome.tiff",
+    file: "166_1_F6_MZL",
   },
   {
     histo: "E-2012-002341",
@@ -3533,7 +3533,7 @@ const samples = [
     coord_b: "G1",
     prefix: "166_1_G1",
     replica: 2,
-    file: "166_1_G1_MZL.ome.tiff",
+    file: "166_1_G1_MZL",
   },
   {
     histo: "E-2012-032918",
@@ -3550,7 +3550,7 @@ const samples = [
     coord_b: "G2",
     prefix: "166_1_G2",
     replica: 2,
-    file: "166_1_G2_MZL.ome.tiff",
+    file: "166_1_G2_MZL",
   },
   {
     histo: "E-2012-040743",
@@ -3567,7 +3567,7 @@ const samples = [
     coord_b: "G3",
     prefix: "166_1_G3",
     replica: 2,
-    file: "166_1_G3_MZL.ome.tiff",
+    file: "166_1_G3_MZL",
   },
   {
     histo: "E-2013-002472",
@@ -3584,7 +3584,7 @@ const samples = [
     coord_b: "G4",
     prefix: "166_1_G4",
     replica: 2,
-    file: "166_1_G4_MZL.ome.tiff",
+    file: "166_1_G4_MZL",
   },
   {
     histo: "R-2009-000021",
@@ -3601,7 +3601,7 @@ const samples = [
     coord_b: "G5",
     prefix: "166_1_G5",
     replica: 2,
-    file: "166_1_G5_PMBCL.ome.tiff",
+    file: "166_1_G5_PMBCL",
   },
   {
     histo: "E-2008-031052",
@@ -3618,7 +3618,7 @@ const samples = [
     coord_b: "G6",
     prefix: "166_1_G6",
     replica: 2,
-    file: "166_1_G6_BLBL.ome.tiff",
+    file: "166_1_G6_BLBL",
   },
   {
     histo: "E-2002-040346",
@@ -3635,7 +3635,7 @@ const samples = [
     coord_b: "H1",
     prefix: "166_1_H1",
     replica: 2,
-    file: "166_1_H1_LPL.ome.tiff",
+    file: "166_1_H1_LPL",
   },
   {
     histo: "E-2004-017305",
@@ -3652,7 +3652,7 @@ const samples = [
     coord_b: "H2",
     prefix: "166_1_H2",
     replica: 2,
-    file: "166_1_H2_LPL.ome.tiff",
+    file: "166_1_H2_LPL",
   },
   {
     histo: "E-2010-041509",
@@ -3669,7 +3669,7 @@ const samples = [
     coord_b: "H3",
     prefix: "166_1_H3",
     replica: 2,
-    file: "166_1_H3_LK.ome.tiff",
+    file: "166_1_H3_LK",
   },
   {
     histo: "E-2010-042475",
@@ -3686,7 +3686,7 @@ const samples = [
     coord_b: "H4",
     prefix: "166_1_H4",
     replica: 2,
-    file: "166_1_H4_LK.ome.tiff",
+    file: "166_1_H4_LK",
   },
   {
     histo: "E-2010-045682",
@@ -3703,7 +3703,7 @@ const samples = [
     coord_b: "H5",
     prefix: "166_1_H5",
     replica: 2,
-    file: "166_1_H5_LK.ome.tiff",
+    file: "166_1_H5_LK",
   },
   {
     histo: "E-2011-009087",
@@ -3720,7 +3720,7 @@ const samples = [
     coord_b: "H6",
     prefix: "166_1_H6",
     replica: 2,
-    file: "166_1_H6_LK.ome.tiff",
+    file: "166_1_H6_LK",
   },
   {
     histo: "E-2011-009316",
@@ -3737,7 +3737,7 @@ const samples = [
     coord_b: "I1",
     prefix: "166_1_I1",
     replica: 2,
-    file: "166_1_I1_LK.ome.tiff",
+    file: "166_1_I1_LK",
   },
   {
     histo: "E-2011-010358",
@@ -3754,7 +3754,7 @@ const samples = [
     coord_b: "I2",
     prefix: "166_1_I2",
     replica: 2,
-    file: "166_1_I2_LK.ome.tiff",
+    file: "166_1_I2_LK",
   },
   {
     histo: "E-2011-011435",
@@ -3771,7 +3771,7 @@ const samples = [
     coord_b: "I3",
     prefix: "166_1_I3",
     replica: 2,
-    file: "166_1_I3_LK.ome.tiff",
+    file: "166_1_I3_LK",
   },
   {
     histo: "E-2011-013691",
@@ -3788,7 +3788,7 @@ const samples = [
     coord_b: "I4",
     prefix: "166_1_I4",
     replica: 2,
-    file: "166_1_I4_LK.ome.tiff",
+    file: "166_1_I4_LK",
   },
   {
     histo: "E-2004-000514",
@@ -3805,7 +3805,7 @@ const samples = [
     coord_b: "A3",
     prefix: "166_2_A3",
     replica: 2,
-    file: "166_2_A3_Burkitt.ome.tiff",
+    file: "166_2_A3_Burkitt",
   },
   {
     histo: "E-2010-027801",
@@ -3822,7 +3822,7 @@ const samples = [
     coord_b: "A4",
     prefix: "166_2_A4",
     replica: 2,
-    file: "166_2_A4_Burkitt.ome.tiff",
+    file: "166_2_A4_Burkitt",
   },
   {
     histo: "E-2013-002290",
@@ -3839,7 +3839,7 @@ const samples = [
     coord_b: "A5",
     prefix: "166_2_A5",
     replica: 2,
-    file: "166_2_A5_Burkitt.ome.tiff",
+    file: "166_2_A5_Burkitt",
   },
   {
     histo: "E-2013-042287",
@@ -3856,7 +3856,7 @@ const samples = [
     coord_b: "A6",
     prefix: "166_2_A6",
     replica: 2,
-    file: "166_2_A6_DLBCL.ome.tiff",
+    file: "166_2_A6_DLBCL",
   },
   {
     histo: "E-2013-045449",
@@ -3873,7 +3873,7 @@ const samples = [
     coord_b: "B1",
     prefix: "166_2_B1",
     replica: 2,
-    file: "166_2_B1_DLBCL.ome.tiff",
+    file: "166_2_B1_DLBCL",
   },
   {
     histo: "E-2013-049068",
@@ -3890,7 +3890,7 @@ const samples = [
     coord_b: "B2",
     prefix: "166_2_B2",
     replica: 2,
-    file: "166_2_B2_DLBCL.ome.tiff",
+    file: "166_2_B2_DLBCL",
   },
   {
     histo: "E-2014-008885",
@@ -3907,7 +3907,7 @@ const samples = [
     coord_b: "B3",
     prefix: "166_2_B3",
     replica: 2,
-    file: "166_2_B3_DLBCL.ome.tiff",
+    file: "166_2_B3_DLBCL",
   },
   {
     histo: "E-2014-009816",
@@ -3924,7 +3924,7 @@ const samples = [
     coord_b: "B4",
     prefix: "166_2_B4",
     replica: 2,
-    file: "166_2_B4_DLBCL.ome.tiff",
+    file: "166_2_B4_DLBCL",
   },
   {
     histo: "E-2014-014170",
@@ -3941,7 +3941,7 @@ const samples = [
     coord_b: "B5",
     prefix: "166_2_B5",
     replica: 2,
-    file: "166_2_B5_DLBCL.ome.tiff",
+    file: "166_2_B5_DLBCL",
   },
   {
     histo: "E-2013-035356",
@@ -3958,7 +3958,7 @@ const samples = [
     coord_b: "C5",
     prefix: "166_1_C5",
     replica: 2,
-    file: "166_1_C5_CLL.ome.tiff",
+    file: "166_1_C5_CLL",
   },
   {
     histo: "E-2013-037225",
@@ -3975,7 +3975,7 @@ const samples = [
     coord_b: "C6",
     prefix: "166_1_C6",
     replica: 2,
-    file: "166_1_C6_CLL.ome.tiff",
+    file: "166_1_C6_CLL",
   },
   {
     histo: "E-2014-007176",
@@ -3992,7 +3992,7 @@ const samples = [
     coord_b: "D2",
     prefix: "166_2_D2",
     replica: 2,
-    file: "166_2_D2_FL1.ome.tiff",
+    file: "166_2_D2_FL1",
   },
   {
     histo: "E-2014-025661",
@@ -4009,7 +4009,7 @@ const samples = [
     coord_b: "D3",
     prefix: "166_2_D3",
     replica: 2,
-    file: "166_2_D3_FL1.ome.tiff",
+    file: "166_2_D3_FL1",
   },
   {
     histo: "E-2013-042389",
@@ -4026,7 +4026,7 @@ const samples = [
     coord_b: "D4",
     prefix: "166_2_D4",
     replica: 2,
-    file: "166_2_D4_FL2.ome.tiff",
+    file: "166_2_D4_FL2",
   },
   {
     histo: "E-2013-044516",
@@ -4043,7 +4043,7 @@ const samples = [
     coord_b: "D5",
     prefix: "166_2_D5",
     replica: 2,
-    file: "166_2_D5_FL2.ome.tiff",
+    file: "166_2_D5_FL2",
   },
   {
     histo: "E-2013-049239",
@@ -4060,7 +4060,7 @@ const samples = [
     coord_b: "D6",
     prefix: "166_2_D6",
     replica: 2,
-    file: "166_2_D6_FL2.ome.tiff",
+    file: "166_2_D6_FL2",
   },
   {
     histo: "E-2014-001726",
@@ -4077,7 +4077,7 @@ const samples = [
     coord_b: "E1",
     prefix: "166_2_E1",
     replica: 2,
-    file: "166_2_E1_FL3a.ome.tiff",
+    file: "166_2_E1_FL3a",
   },
   {
     histo: "E-2014-010986",
@@ -4094,7 +4094,7 @@ const samples = [
     coord_b: "E2",
     prefix: "166_2_E2",
     replica: 2,
-    file: "166_2_E2_FL3a.ome.tiff",
+    file: "166_2_E2_FL3a",
   },
   {
     histo: "E-2008-015407",
@@ -4111,7 +4111,7 @@ const samples = [
     coord_b: "E3",
     prefix: "166_2_E3",
     replica: 2,
-    file: "166_2_E3_FL3b.ome.tiff",
+    file: "166_2_E3_FL3b",
   },
   {
     histo: "E-2008-027407",
@@ -4128,7 +4128,7 @@ const samples = [
     coord_b: "E4",
     prefix: "166_2_E4",
     replica: 2,
-    file: "166_2_E4_FL3b.ome.tiff",
+    file: "166_2_E4_FL3b",
   },
   {
     histo: "E-2012-023785",
@@ -4145,7 +4145,7 @@ const samples = [
     coord_b: "E5",
     prefix: "166_2_E5",
     replica: 2,
-    file: "166_2_E5_MCL.ome.tiff",
+    file: "166_2_E5_MCL",
   },
   {
     histo: "E-2012-025559",
@@ -4162,7 +4162,7 @@ const samples = [
     coord_b: "E6",
     prefix: "166_2_E6",
     replica: 2,
-    file: "166_2_E6_MCL.ome.tiff",
+    file: "166_2_E6_MCL",
   },
   {
     histo: "E-2012-032451",
@@ -4179,7 +4179,7 @@ const samples = [
     coord_b: "F1",
     prefix: "166_2_F1",
     replica: 2,
-    file: "166_2_F1_MCL.ome.tiff",
+    file: "166_2_F1_MCL",
   },
   {
     histo: "E-2012-038071",
@@ -4196,7 +4196,7 @@ const samples = [
     coord_b: "F2",
     prefix: "166_2_F2",
     replica: 2,
-    file: "166_2_F2_MCL.ome.tiff",
+    file: "166_2_F2_MCL",
   },
   {
     histo: "E-2012-039294",
@@ -4213,7 +4213,7 @@ const samples = [
     coord_b: "F3",
     prefix: "166_2_F3",
     replica: 2,
-    file: "166_2_F3_MCL.ome.tiff",
+    file: "166_2_F3_MCL",
   },
   {
     histo: "E-2013-012351",
@@ -4230,7 +4230,7 @@ const samples = [
     coord_b: "F4",
     prefix: "166_2_F4",
     replica: 2,
-    file: "166_2_F4_MCL.ome.tiff",
+    file: "166_2_F4_MCL",
   },
   {
     histo: "E-2013-028401",
@@ -4247,7 +4247,7 @@ const samples = [
     coord_b: "F5",
     prefix: "166_2_F5",
     replica: 2,
-    file: "166_2_F5_MCL.ome.tiff",
+    file: "166_2_F5_MCL",
   },
   {
     histo: "E-2013-014622",
@@ -4264,7 +4264,7 @@ const samples = [
     coord_b: "F6",
     prefix: "166_2_F6",
     replica: 2,
-    file: "166_2_F6_MZL.ome.tiff",
+    file: "166_2_F6_MZL",
   },
   {
     histo: "E-2013-018716",
@@ -4281,7 +4281,7 @@ const samples = [
     coord_b: "G1",
     prefix: "166_2_G1",
     replica: 2,
-    file: "166_2_G1_MZL.ome.tiff",
+    file: "166_2_G1_MZL",
   },
   {
     histo: "E-2013-023347",
@@ -4298,7 +4298,7 @@ const samples = [
     coord_b: "G2",
     prefix: "166_2_G2",
     replica: 2,
-    file: "166_2_G2_MZL.ome.tiff",
+    file: "166_2_G2_MZL",
   },
   {
     histo: "E-2013-042144",
@@ -4315,7 +4315,7 @@ const samples = [
     coord_b: "G3",
     prefix: "166_2_G3",
     replica: 2,
-    file: "166_2_G3_MZL.ome.tiff",
+    file: "166_2_G3_MZL",
   },
   {
     histo: "E-2013-043569",
@@ -4332,7 +4332,7 @@ const samples = [
     coord_b: "G4",
     prefix: "166_2_G4",
     replica: 2,
-    file: "166_2_G4_MZL.ome.tiff",
+    file: "166_2_G4_MZL",
   },
   {
     histo: "E-2014-002974",
@@ -4349,7 +4349,7 @@ const samples = [
     coord_b: "G5",
     prefix: "166_2_G5",
     replica: 2,
-    file: "166_2_G5_MZL.ome.tiff",
+    file: "166_2_G5_MZL",
   },
   {
     histo: "R-2010-004335",
@@ -4366,7 +4366,7 @@ const samples = [
     coord_b: "G6",
     prefix: "166_2_G6",
     replica: 2,
-    file: "166_2_G6_PMBCL.ome.tiff",
+    file: "166_2_G6_PMBCL",
   },
   {
     histo: "E-2009-002389",
@@ -4383,7 +4383,7 @@ const samples = [
     coord_b: "H1",
     prefix: "166_2_H1",
     replica: 2,
-    file: "166_2_H1_BLBL.ome.tiff",
+    file: "166_2_H1_BLBL",
   },
   {
     histo: "E-2004-035905",
@@ -4400,7 +4400,7 @@ const samples = [
     coord_b: "H2",
     prefix: "166_2_H2",
     replica: 2,
-    file: "166_2_H2_LPL.ome.tiff",
+    file: "166_2_H2_LPL",
   },
   {
     histo: "E-2011-016420",
@@ -4417,7 +4417,7 @@ const samples = [
     coord_b: "H3",
     prefix: "166_2_H3",
     replica: 2,
-    file: "166_2_H3_LK.ome.tiff",
+    file: "166_2_H3_LK",
   },
   {
     histo: "E-2011-016969",
@@ -4434,7 +4434,7 @@ const samples = [
     coord_b: "H4",
     prefix: "166_2_H4",
     replica: 2,
-    file: "166_2_H4_LK.ome.tiff",
+    file: "166_2_H4_LK",
   },
   {
     histo: "E-2011-017754",
@@ -4451,7 +4451,7 @@ const samples = [
     coord_b: "H5",
     prefix: "166_2_H5",
     replica: 2,
-    file: "166_2_H5_LK.ome.tiff",
+    file: "166_2_H5_LK",
   },
   {
     histo: "E-2011-018951",
@@ -4468,7 +4468,7 @@ const samples = [
     coord_b: "H6",
     prefix: "166_2_H6",
     replica: 2,
-    file: "166_2_H6_LK.ome.tiff",
+    file: "166_2_H6_LK",
   },
   {
     histo: "E-2011-021216",
@@ -4485,7 +4485,7 @@ const samples = [
     coord_b: "I1",
     prefix: "166_2_I1",
     replica: 2,
-    file: "166_2_I1_LK.ome.tiff",
+    file: "166_2_I1_LK",
   },
   {
     histo: "E-2011-022386",
@@ -4519,7 +4519,7 @@ const samples = [
     coord_b: "I3",
     prefix: "166_2_I3",
     replica: 2,
-    file: "166_2_I3_LK.ome.tiff",
+    file: "166_2_I3_LK",
   },
   {
     histo: "E-2013-023696",
@@ -4536,7 +4536,7 @@ const samples = [
     coord_b: "A3",
     prefix: "166_3_A3",
     replica: 2,
-    file: "166_3_A3_Burkitt.ome.tiff",
+    file: "166_3_A3_Burkitt",
   },
   {
     histo: "E-2014-026179",
@@ -4553,7 +4553,7 @@ const samples = [
     coord_b: "A4",
     prefix: "166_3_A4",
     replica: 2,
-    file: "166_3_A4_Burkitt.ome.tiff",
+    file: "166_3_A4_Burkitt",
   },
   {
     histo: "E-2014-037025",
@@ -4570,7 +4570,7 @@ const samples = [
     coord_b: "A5",
     prefix: "166_3_A5",
     replica: 2,
-    file: "166_3_A5_Burkitt.ome.tiff",
+    file: "166_3_A5_Burkitt",
   },
   {
     histo: "E-2014-015807",
@@ -4587,7 +4587,7 @@ const samples = [
     coord_b: "A6",
     prefix: "166_3_A6",
     replica: 2,
-    file: "166_3_A6_DLBCL.ome.tiff",
+    file: "166_3_A6_DLBCL",
   },
   {
     histo: "E-2014-030765",
@@ -4604,7 +4604,7 @@ const samples = [
     coord_b: "B1",
     prefix: "166_3_B1",
     replica: 2,
-    file: "166_3_B1_DLBCL.ome.tiff",
+    file: "166_3_B1_DLBCL",
   },
   {
     histo: "E-2014-034157",
@@ -4621,7 +4621,7 @@ const samples = [
     coord_b: "B2",
     prefix: "166_3_B2",
     replica: 2,
-    file: "166_3_B2_DLBCL.ome.tiff",
+    file: "166_3_B2_DLBCL",
   },
   {
     histo: "E-2014-035032",
@@ -4638,7 +4638,7 @@ const samples = [
     coord_b: "B3",
     prefix: "166_3_B3",
     replica: 2,
-    file: "166_3_B3_DLBCL.ome.tiff",
+    file: "166_3_B3_DLBCL",
   },
   {
     histo: "E-2014-036607",
@@ -4655,7 +4655,7 @@ const samples = [
     coord_b: "B4",
     prefix: "166_3_B4",
     replica: 2,
-    file: "166_3_B4_DLBCL.ome.tiff",
+    file: "166_3_B4_DLBCL",
   },
   {
     histo: "E-2014-041180",
@@ -4672,7 +4672,7 @@ const samples = [
     coord_b: "B5",
     prefix: "166_3_B5",
     replica: 2,
-    file: "166_3_B5_DLBCL.ome.tiff",
+    file: "166_3_B5_DLBCL",
   },
   {
     histo: "E-2014-030949",
@@ -4689,7 +4689,7 @@ const samples = [
     coord_b: "D1",
     prefix: "166_3_D1",
     replica: 2,
-    file: "166_3_D1_FL1.ome.tiff",
+    file: "166_3_D1_FL1",
   },
   {
     histo: "E-2014-033655",
@@ -4706,7 +4706,7 @@ const samples = [
     coord_b: "D2",
     prefix: "166_3_D2",
     replica: 2,
-    file: "166_3_D2_FL1.ome.tiff",
+    file: "166_3_D2_FL1",
   },
   {
     histo: "E-2014-035320",
@@ -4723,7 +4723,7 @@ const samples = [
     coord_b: "D3",
     prefix: "166_3_D3",
     replica: 2,
-    file: "166_3_D3_FL1.ome.tiff",
+    file: "166_3_D3_FL1",
   },
   {
     histo: "E-2014-011769",
@@ -4740,7 +4740,7 @@ const samples = [
     coord_b: "D4",
     prefix: "166_3_D4",
     replica: 2,
-    file: "166_3_D4_FL2.ome.tiff",
+    file: "166_3_D4_FL2",
   },
   {
     histo: "E-2014-015408",
@@ -4757,7 +4757,7 @@ const samples = [
     coord_b: "D5",
     prefix: "166_3_D5",
     replica: 2,
-    file: "166_3_D5_FL2.ome.tiff",
+    file: "166_3_D5_FL2",
   },
   {
     histo: "E-2014-030037",
@@ -4774,7 +4774,7 @@ const samples = [
     coord_b: "D6",
     prefix: "166_3_D6",
     replica: 2,
-    file: "166_3_D6_FL2.ome.tiff",
+    file: "166_3_D6_FL2",
   },
   {
     histo: "E-2014-012842",
@@ -4791,7 +4791,7 @@ const samples = [
     coord_b: "E1",
     prefix: "166_3_E1",
     replica: 2,
-    file: "166_3_E1_FL3a.ome.tiff",
+    file: "166_3_E1_FL3a",
   },
   {
     histo: "E-2014-013712",
@@ -4808,7 +4808,7 @@ const samples = [
     coord_b: "E2",
     prefix: "166_3_E2",
     replica: 2,
-    file: "166_3_E2_FL3a.ome.tiff",
+    file: "166_3_E2_FL3a",
   },
   {
     histo: "E-2011-041081",
@@ -4825,7 +4825,7 @@ const samples = [
     coord_b: "E3",
     prefix: "166_3_E3",
     replica: 2,
-    file: "166_3_E3_FL3b.ome.tiff",
+    file: "166_3_E3_FL3b",
   },
   {
     histo: "E-2012-028260",
@@ -4842,7 +4842,7 @@ const samples = [
     coord_b: "E4",
     prefix: "166_3_E4",
     replica: 2,
-    file: "166_3_E4_FL3b.ome.tiff",
+    file: "166_3_E4_FL3b",
   },
   {
     histo: "E-2013-028927",
@@ -4859,7 +4859,7 @@ const samples = [
     coord_b: "E5",
     prefix: "166_3_E5",
     replica: 2,
-    file: "166_3_E5_MCL.ome.tiff",
+    file: "166_3_E5_MCL",
   },
   {
     histo: "E-2013-029982",
@@ -4876,7 +4876,7 @@ const samples = [
     coord_b: "E6",
     prefix: "166_3_E6",
     replica: 2,
-    file: "166_3_E6_MCL.ome.tiff",
+    file: "166_3_E6_MCL",
   },
   {
     histo: "E-2013-046704",
@@ -4893,7 +4893,7 @@ const samples = [
     coord_b: "F1",
     prefix: "166_3_F1",
     replica: 2,
-    file: "166_3_F1_MCL.ome.tiff",
+    file: "166_3_F1_MCL",
   },
   {
     histo: "E-2014-001824",
@@ -4910,7 +4910,7 @@ const samples = [
     coord_b: "F2",
     prefix: "166_3_F2",
     replica: 2,
-    file: "166_3_F2_MCL.ome.tiff",
+    file: "166_3_F2_MCL",
   },
   {
     histo: "E-2014-005180",
@@ -4927,7 +4927,7 @@ const samples = [
     coord_b: "F3",
     prefix: "166_3_F3",
     replica: 2,
-    file: "166_3_F3_MCL.ome.tiff",
+    file: "166_3_F3_MCL",
   },
   {
     histo: "E-2014-032901",
@@ -4944,7 +4944,7 @@ const samples = [
     coord_b: "F4",
     prefix: "166_3_F4",
     replica: 2,
-    file: "166_3_F4_MCL.ome.tiff",
+    file: "166_3_F4_MCL",
   },
   {
     histo: "E-2014-027052",
@@ -4961,7 +4961,7 @@ const samples = [
     coord_b: "F5",
     prefix: "166_3_F5",
     replica: 2,
-    file: "166_3_F5_MZL.ome.tiff",
+    file: "166_3_F5_MZL",
   },
   {
     histo: "E-2014-038354",
@@ -4978,7 +4978,7 @@ const samples = [
     coord_b: "F6",
     prefix: "166_3_F6",
     replica: 2,
-    file: "166_3_F6_MZL.ome.tiff",
+    file: "166_3_F6_MZL",
   },
   {
     histo: "E-2014-038651",
@@ -4995,7 +4995,7 @@ const samples = [
     coord_b: "G1",
     prefix: "166_3_G1",
     replica: 2,
-    file: "166_3_G1_MZL.ome.tiff",
+    file: "166_3_G1_MZL",
   },
   {
     histo: "E-2015-002425",
@@ -5012,7 +5012,7 @@ const samples = [
     coord_b: "G2",
     prefix: "166_3_G2",
     replica: 2,
-    file: "166_3_G2_MZL.ome.tiff",
+    file: "166_3_G2_MZL",
   },
   {
     histo: "E-2015-005665",
@@ -5029,7 +5029,7 @@ const samples = [
     coord_b: "G3",
     prefix: "166_3_G3",
     replica: 2,
-    file: "166_3_G3_MZL.ome.tiff",
+    file: "166_3_G3_MZL",
   },
   {
     histo: "R-2012-000567",
@@ -5046,7 +5046,7 @@ const samples = [
     coord_b: "G4",
     prefix: "166_3_G4",
     replica: 2,
-    file: "166_3_G4_PMBCL.ome.tiff",
+    file: "166_3_G4_PMBCL",
   },
   {
     histo: "E-2009-041128",
@@ -5063,7 +5063,7 @@ const samples = [
     coord_b: "G5",
     prefix: "166_3_G5",
     replica: 2,
-    file: "166_3_G5_BLBL.ome.tiff",
+    file: "166_3_G5_BLBL",
   },
   {
     histo: "E-2008-009080",
@@ -5080,7 +5080,7 @@ const samples = [
     coord_b: "G6",
     prefix: "166_3_G6",
     replica: 2,
-    file: "166_3_G6_LPL.ome.tiff",
+    file: "166_3_G6_LPL",
   },
   {
     histo: "E-2010-005325",
@@ -5097,7 +5097,7 @@ const samples = [
     coord_b: "H1",
     prefix: "166_3_H1",
     replica: 2,
-    file: "166_3_H1_LPL.ome.tiff",
+    file: "166_3_H1_LPL",
   },
   {
     histo: "E-2011-030484",
@@ -5114,7 +5114,7 @@ const samples = [
     coord_b: "H2",
     prefix: "166_3_H2",
     replica: 2,
-    file: "166_3_H2_LK.ome.tiff",
+    file: "166_3_H2_LK",
   },
   {
     histo: "E-2011-031101",
@@ -5131,7 +5131,7 @@ const samples = [
     coord_b: "H3",
     prefix: "166_3_H3",
     replica: 2,
-    file: "166_3_H3_LK.ome.tiff",
+    file: "166_3_H3_LK",
   },
   {
     histo: "E-2011-031340",
@@ -5148,7 +5148,7 @@ const samples = [
     coord_b: "H4",
     prefix: "166_3_H4",
     replica: 2,
-    file: "166_3_H4_LK.ome.tiff",
+    file: "166_3_H4_LK",
   },
   {
     histo: "E-2011-035985",
@@ -5165,7 +5165,7 @@ const samples = [
     coord_b: "H5",
     prefix: "166_3_H5",
     replica: 2,
-    file: "166_3_H5_LK.ome.tiff",
+    file: "166_3_H5_LK",
   },
   {
     histo: "E-2011-036375",
@@ -5182,7 +5182,7 @@ const samples = [
     coord_b: "H6",
     prefix: "166_3_H6",
     replica: 2,
-    file: "166_3_H6_LK.ome.tiff",
+    file: "166_3_H6_LK",
   },
   {
     histo: "E-2011-036548",
@@ -5199,7 +5199,7 @@ const samples = [
     coord_b: "I1",
     prefix: "166_3_I1",
     replica: 2,
-    file: "166_3_I1_LK.ome.tiff",
+    file: "166_3_I1_LK",
   },
   {
     histo: "E-2011-037450",
@@ -5216,7 +5216,7 @@ const samples = [
     coord_b: "I2",
     prefix: "166_3_I2",
     replica: 2,
-    file: "166_3_I2_LK.ome.tiff",
+    file: "166_3_I2_LK",
   },
   {
     histo: "E-2011-039663",
@@ -5233,7 +5233,7 @@ const samples = [
     coord_b: "I3",
     prefix: "166_3_I3",
     replica: 2,
-    file: "166_3_I3_LK.ome.tiff",
+    file: "166_3_I3_LK",
   },
   {
     histo: "E-2014-047049",
@@ -5250,7 +5250,7 @@ const samples = [
     coord_b: "A3",
     prefix: "166_4_A3",
     replica: 2,
-    file: "166_4_A3_Burkitt.ome.tiff",
+    file: "166_4_A3_Burkitt",
   },
   {
     histo: "E-2015-012223",
@@ -5267,7 +5267,7 @@ const samples = [
     coord_b: "A4",
     prefix: "166_4_A4",
     replica: 2,
-    file: "166_4_A4_Burkitt.ome.tiff",
+    file: "166_4_A4_Burkitt",
   },
   {
     histo: "E-2014-051359",
@@ -5284,7 +5284,7 @@ const samples = [
     coord_b: "A5",
     prefix: "166_4_A5",
     replica: 2,
-    file: "166_4_A5_DLBCL.ome.tiff",
+    file: "166_4_A5_DLBCL",
   },
   {
     histo: "E-2014-052648",
@@ -5301,7 +5301,7 @@ const samples = [
     coord_b: "A6",
     prefix: "166_4_A6",
     replica: 2,
-    file: "166_4_A6_DLBCL.ome.tiff",
+    file: "166_4_A6_DLBCL",
   },
   {
     histo: "E-2015-004416",
@@ -5318,7 +5318,7 @@ const samples = [
     coord_b: "B1",
     prefix: "166_4_B1",
     replica: 2,
-    file: "166_4_B1_DLBCL.ome.tiff",
+    file: "166_4_B1_DLBCL",
   },
   {
     histo: "E-2015-008895",
@@ -5335,7 +5335,7 @@ const samples = [
     coord_b: "B2",
     prefix: "166_4_B2",
     replica: 2,
-    file: "166_4_B2_DLBCL.ome.tiff",
+    file: "166_4_B2_DLBCL",
   },
   {
     histo: "E-2015-012122",
@@ -5352,7 +5352,7 @@ const samples = [
     coord_b: "B3",
     prefix: "166_4_B3",
     replica: 2,
-    file: "166_4_B3_DLBCL.ome.tiff",
+    file: "166_4_B3_DLBCL",
   },
   {
     histo: "E-2015-019428",
@@ -5369,7 +5369,7 @@ const samples = [
     coord_b: "B4",
     prefix: "166_4_B4",
     replica: 2,
-    file: "166_4_B4_DLBCL.ome.tiff",
+    file: "166_4_B4_DLBCL",
   },
   {
     histo: "R-2005-001044",
@@ -5386,7 +5386,7 @@ const samples = [
     coord_b: "B5",
     prefix: "166_4_B5",
     replica: 2,
-    file: "166_4_B5_DLBCL.ome.tiff",
+    file: "166_4_B5_DLBCL",
   },
   {
     histo: "E-2014-046431",
@@ -5403,7 +5403,7 @@ const samples = [
     coord_b: "B6",
     prefix: "166_2_B6",
     replica: 2,
-    file: "166_2_B6_CLL.ome.tiff",
+    file: "166_2_B6_CLL",
   },
   {
     histo: "E-2015-003039",
@@ -5420,7 +5420,7 @@ const samples = [
     coord_b: "C1",
     prefix: "166_2_C1",
     replica: 2,
-    file: "166_2_C1_CLL.ome.tiff",
+    file: "166_2_C1_CLL",
   },
   {
     histo: "E-2014-050384",
@@ -5437,7 +5437,7 @@ const samples = [
     coord_b: "D2",
     prefix: "166_4_D2",
     replica: 2,
-    file: "166_4_D2_FL1.ome.tiff",
+    file: "166_4_D2_FL1",
   },
   {
     histo: "E-2015-008364",
@@ -5454,7 +5454,7 @@ const samples = [
     coord_b: "D3",
     prefix: "166_4_D3",
     replica: 2,
-    file: "166_4_D3_FL1.ome.tiff",
+    file: "166_4_D3_FL1",
   },
   {
     histo: "E-2015-017736",
@@ -5471,7 +5471,7 @@ const samples = [
     coord_b: "D4",
     prefix: "166_4_D4",
     replica: 2,
-    file: "166_4_D4_FL1.ome.tiff",
+    file: "166_4_D4_FL1",
   },
   {
     histo: "E-2014-038327",
@@ -5488,7 +5488,7 @@ const samples = [
     coord_b: "D5",
     prefix: "166_4_D5",
     replica: 2,
-    file: "166_4_D5_FL2.ome.tiff",
+    file: "166_4_D5_FL2",
   },
   {
     histo: "E-2014-050885",
@@ -5505,7 +5505,7 @@ const samples = [
     coord_b: "D6",
     prefix: "166_4_D6",
     replica: 2,
-    file: "166_4_D6_FL2.ome.tiff",
+    file: "166_4_D6_FL2",
   },
   {
     histo: "E-2014-051638",
@@ -5522,7 +5522,7 @@ const samples = [
     coord_b: "E1",
     prefix: "166_4_E1",
     replica: 2,
-    file: "166_4_E1_FL2.ome.tiff",
+    file: "166_4_E1_FL2",
   },
   {
     histo: "E-2014-049326",
@@ -5539,7 +5539,7 @@ const samples = [
     coord_b: "E2",
     prefix: "166_4_E2",
     replica: 2,
-    file: "166_4_E2_FL3a.ome.tiff",
+    file: "166_4_E2_FL3a",
   },
   {
     histo: "E-2014-051595",
@@ -5556,7 +5556,7 @@ const samples = [
     coord_b: "E3",
     prefix: "166_4_E3",
     replica: 2,
-    file: "166_4_E3_FL3a.ome.tiff",
+    file: "166_4_E3_FL3a",
   },
   {
     histo: "E-2014-053410",
@@ -5573,7 +5573,7 @@ const samples = [
     coord_b: "E4",
     prefix: "166_4_E4",
     replica: 2,
-    file: "166_4_E4_FL3a.ome.tiff",
+    file: "166_4_E4_FL3a",
   },
   {
     histo: "E-2014-035309",
@@ -5590,7 +5590,7 @@ const samples = [
     coord_b: "E5",
     prefix: "166_4_E5",
     replica: 2,
-    file: "166_4_E5_FL3b.ome.tiff",
+    file: "166_4_E5_FL3b",
   },
   {
     histo: "E-2014-047648",
@@ -5607,7 +5607,7 @@ const samples = [
     coord_b: "E6",
     prefix: "166_4_E6",
     replica: 2,
-    file: "166_4_E6_MCL.ome.tiff",
+    file: "166_4_E6_MCL",
   },
   {
     histo: "E-2015-001418",
@@ -5624,7 +5624,7 @@ const samples = [
     coord_b: "F1",
     prefix: "166_4_F1",
     replica: 2,
-    file: "166_4_F1_MCL.ome.tiff",
+    file: "166_4_F1_MCL",
   },
   {
     histo: "E-2015-014108",
@@ -5641,7 +5641,7 @@ const samples = [
     coord_b: "F2",
     prefix: "166_4_F2",
     replica: 2,
-    file: "166_4_F2_MCL.ome.tiff",
+    file: "166_4_F2_MCL",
   },
   {
     histo: "E-2015-018880",
@@ -5658,7 +5658,7 @@ const samples = [
     coord_b: "F3",
     prefix: "166_4_F3",
     replica: 2,
-    file: "166_4_F3_MCL.ome.tiff",
+    file: "166_4_F3_MCL",
   },
   {
     histo: "E-2015-027745",
@@ -5675,7 +5675,7 @@ const samples = [
     coord_b: "F4",
     prefix: "166_4_F4",
     replica: 2,
-    file: "166_4_F4_MCL.ome.tiff",
+    file: "166_4_F4_MCL",
   },
   {
     histo: "E-2015-028446",
@@ -5692,7 +5692,7 @@ const samples = [
     coord_b: "F5",
     prefix: "166_4_F5",
     replica: 2,
-    file: "166_4_F5_MCL.ome.tiff",
+    file: "166_4_F5_MCL",
   },
   {
     histo: "E-2015-011110",
@@ -5709,7 +5709,7 @@ const samples = [
     coord_b: "F6",
     prefix: "166_4_F6",
     replica: 2,
-    file: "166_4_F6_MZL.ome.tiff",
+    file: "166_4_F6_MZL",
   },
   {
     histo: "E-2015-017746",
@@ -5726,7 +5726,7 @@ const samples = [
     coord_b: "G1",
     prefix: "166_4_G1",
     replica: 2,
-    file: "166_4_G1_MZL.ome.tiff",
+    file: "166_4_G1_MZL",
   },
   {
     histo: "E-2015-026052",
@@ -5743,7 +5743,7 @@ const samples = [
     coord_b: "G2",
     prefix: "166_4_G2",
     replica: 2,
-    file: "166_4_G2_MZL.ome.tiff",
+    file: "166_4_G2_MZL",
   },
   {
     histo: "E-2015-028452",
@@ -5760,7 +5760,7 @@ const samples = [
     coord_b: "G3",
     prefix: "166_4_G3",
     replica: 2,
-    file: "166_4_G3_MZL.ome.tiff",
+    file: "166_4_G3_MZL",
   },
   {
     histo: "E-2015-031365",
@@ -5777,7 +5777,7 @@ const samples = [
     coord_b: "G4",
     prefix: "166_4_G4",
     replica: 2,
-    file: "166_4_G4_MZL.ome.tiff",
+    file: "166_4_G4_MZL",
   },
   {
     histo: "R-2013-001386",
@@ -5794,7 +5794,7 @@ const samples = [
     coord_b: "G5",
     prefix: "166_4_G5",
     replica: 2,
-    file: "166_4_G5_PMBCL.ome.tiff",
+    file: "166_4_G5_PMBCL",
   },
   {
     histo: "E-2011-012797",
@@ -5811,7 +5811,7 @@ const samples = [
     coord_b: "G6",
     prefix: "166_4_G6",
     replica: 2,
-    file: "166_4_G6_BLBL.ome.tiff",
+    file: "166_4_G6_BLBL",
   },
   {
     histo: "E-2015-021567",
@@ -5828,7 +5828,7 @@ const samples = [
     coord_b: "H1",
     prefix: "166_4_H1",
     replica: 2,
-    file: "166_4_H1_LPL.ome.tiff",
+    file: "166_4_H1_LPL",
   },
   {
     histo: "E-2011-039991",
@@ -5845,7 +5845,7 @@ const samples = [
     coord_b: "H2",
     prefix: "166_4_H2",
     replica: 2,
-    file: "166_4_H2_LK.ome.tiff",
+    file: "166_4_H2_LK",
   },
   {
     histo: "E-2011-041442",
@@ -5862,7 +5862,7 @@ const samples = [
     coord_b: "H3",
     prefix: "166_4_H3",
     replica: 2,
-    file: "166_4_H3_LK.ome.tiff",
+    file: "166_4_H3_LK",
   },
   {
     histo: "E-2011-044099",
@@ -5879,7 +5879,7 @@ const samples = [
     coord_b: "H4",
     prefix: "166_4_H4",
     replica: 2,
-    file: "166_4_H4_LK.ome.tiff",
+    file: "166_4_H4_LK",
   },
   {
     histo: "E-2011-044487",
@@ -5896,7 +5896,7 @@ const samples = [
     coord_b: "H5",
     prefix: "166_4_H5",
     replica: 2,
-    file: "166_4_H5_LK.ome.tiff",
+    file: "166_4_H5_LK",
   },
   {
     histo: "E-2011-045833",
@@ -5913,7 +5913,7 @@ const samples = [
     coord_b: "H6",
     prefix: "166_4_H6",
     replica: 2,
-    file: "166_4_H6_LK.ome.tiff",
+    file: "166_4_H6_LK",
   },
   {
     histo: "E-2011-046026",
@@ -5930,7 +5930,7 @@ const samples = [
     coord_b: "I1",
     prefix: "166_4_I1",
     replica: 2,
-    file: "166_4_I1_LK.ome.tiff",
+    file: "166_4_I1_LK",
   },
   {
     histo: "E-2011-046116",
@@ -5947,7 +5947,7 @@ const samples = [
     coord_b: "I2",
     prefix: "166_4_I2",
     replica: 2,
-    file: "166_4_I2_LK.ome.tiff",
+    file: "166_4_I2_LK",
   },
 ];
 
