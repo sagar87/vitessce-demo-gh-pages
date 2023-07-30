@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React from "react";
 import PropTypes from "prop-types";
 import _ from "lodash";
@@ -17,11 +18,7 @@ const Pagination = (props) => {
             className={page === currentPage ? "page-item active" : "page-item"}
             key={page}
           >
-            <a
-              className="page-link"
-              onClick={() => onPageChage(page)}
-              href="/#"
-            >
+            <a className="page-link" onClick={() => onPageChage(page)}>
               {page}
             </a>
           </li>

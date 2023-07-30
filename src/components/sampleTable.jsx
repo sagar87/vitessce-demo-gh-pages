@@ -21,7 +21,9 @@ class SampleTable extends Component {
     {
       path: "file",
       label: "File",
-      content: (sample) => <a href={`/${sample.file}`}>{sample.prefix}</a>, //Link to={`/${sample.file}`}>{sample.prefix}</Link>, //
+      content: (sample) => (
+        <a href={`/vitessce-demo-gh-pages/${sample.file}`}>{sample.prefix}</a>
+      ), //Link to={`/${sample.file}`}>{sample.prefix}</Link>, //
     },
   ];
 

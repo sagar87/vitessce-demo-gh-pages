@@ -117,7 +117,10 @@ class App extends Component {
                 />
               </div>
               <div className="row vitessce-container">
-                <Route path="/:sample" component={Viewer} />
+                <Route
+                  path="/vitessce-demo-gh-pages/:sample"
+                  component={Viewer}
+                />
                 {/* <Route path="/counter" component={Counters} /> */}
                 {/* <Route path="/movies" component={Movies} /> */}
               </div>
